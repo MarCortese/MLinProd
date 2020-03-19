@@ -19,9 +19,11 @@ Questa app, sviluppata in shiny con linguaggio R, è stata creata per un Meetup 
 
 Questa tab ha l'obbiettivo di mostrare le prime fasi che bisogna eseguire in una qualsiasi analisi. Tutto parte da un'analisi del fenomeno rappresentato dai dati cercando quindi di capire le variabili presenti nel dataset e la rispettiva distribuzione
 Analisi delle variabili
+
 ![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Esplora1.jpg)
 
 Alcuni grafici descrittivi delle variabili.
+
 ![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Esplora2.jpg)
 
 ![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Esplora3.jpg)
@@ -39,3 +41,22 @@ Una volta attribuito un valore è possibile rappresentare l'output grafico, in q
 
 
 # Regressione
+
+La regressione, invece,  è una tecnica di ML con apprendimento supervisionato, nella quale quindi vi è la prresenza della variabile target. Lo scopo di questa tecnica è quello di andare ad capire l'importanza delle variabile indipendenti nell'attribuzione del valore della variabile dipendente o target. La regressione, quindi, è caratterizzata da una prima fase nella quale si crea il modello con le variabili significative e una seconda fase nella quale, attribuendo un valore alle variabili del modello, si cerca di predire il valore della nostra variabile target. La scelta delle variabile deve prevedere la possibilità di inserire più variabili perciò è stata scelto un checkgroup.
+
+Scelta variabili
+
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/reg1.jpg)
+
+Creazione modello
+
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/reg2.jpg)
+
+Previsioni
+
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/reg3.jpg)
+
+
+
+
+Marco Cortese
