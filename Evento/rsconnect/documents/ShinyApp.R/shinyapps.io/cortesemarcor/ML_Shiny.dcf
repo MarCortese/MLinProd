@@ -1,0 +1,13 @@
+name: ML_Shiny
+title: ML_Shiny
+username:
+account: cortesemarcor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1247217
+bundleId: 2446703
+url: https://cortesemarcor.shinyapps.io/ML_Shiny/
+when: 1569486853.53766
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data_altro.csv|dataReg.csv|DATI_SUI_FUORI_REGIONE.txt|elaborazione.R|File2018.csv|File2019.csv|file3.csv|file3.xlsx|fiori.png|Healthy Reply PRESENTATION BLACK 16.9.potx|Healthy Reply PRESENTATION WHITE 16.9.potx|Meetup_Shiny - Copia.pptx|Meetup_Shiny.pptx|Meetup_Shiny_Reply.pptx|PaymentConfirmation.pdf|PDFStampato.pdf|Qlik Sense Desktop.lnk|Qlik_Sense_Desktop_setup.exe|script_dati.R|Tech Startup by Slidesgo.pptx|TEST.txt|TEST111.txt|TEST2.txt

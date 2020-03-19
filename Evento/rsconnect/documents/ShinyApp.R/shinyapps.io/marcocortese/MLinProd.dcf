@@ -1,0 +1,13 @@
+name: MLinProd
+title: MLinProd
+username:
+account: marcocortese
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1229849
+bundleId: 2897583
+url: https://marcocortese.shinyapps.io/MLinProd/
+when: 1584616584.52298
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|20161109_labcamp_shiny.pdf|clust.R|data_altro.csv|dataReg.csv|DATI_SUI_FUORI_REGIONE.txt|elaborazione.R|File2018.csv|File2019.csv|file3.csv|file3.xlsx|fiori.png|Healthy Reply PRESENTATION BLACK 16.9.potx|Healthy Reply PRESENTATION WHITE 16.9.potx|Meetup_Shiny - Copia.pptx|Meetup_Shiny.pptx|Meetup_Shiny_Reply.pptx|PaymentConfirmation.pdf|PDFStampato.pdf|script_dati.R|Tech Startup by Slidesgo.pptx|TEST.txt|TEST111.txt|TEST2.txt|V1.R|v2.R|v3.R

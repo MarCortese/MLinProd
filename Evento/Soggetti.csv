@@ -1,0 +1,1721 @@
+"Codice_Soggetto","Regione_Res","Prov_Res","Data_Nascita","Classe_Eta","Ripetizioni","Sesso","Seq"
+"C5EEB8132E380605","Lombardia","Milano","02/07/2018",1,1,0,1
+"A2016C991A7D9713","Provincia di Trento","Trento","06/01/2018",1,1,0,1
+"1B9DA34ED923B82B","Provincia di Trento","Trento","08/06/2017",1,1,0,1
+"FFD113BA3E0A4A61","Emilia-Romagna","Parma","10/06/2017",1,1,1,1
+"4B6D2434CB84EC75","Provincia di Trento","Trento","10/12/2017",1,1,1,1
+"3A9AF200EA20A513","Provincia di Trento","Trento","11/08/2018",1,1,0,1
+"0BC29372C6C78232","Provincia di Trento","Trento","13/04/2017",1,1,1,1
+"8EAF7079738D989C","Estero","Estero","13/05/2018",1,1,0,1
+"BACFBC11B4A40C2D","Veneto","Belluno","13/05/2019",1,1,0,1
+"F65CB004F1FC4698","Provincia di Trento","Trento","16/01/2018",1,1,0,1
+"5001ADE123DF40AA","Campania","Napoli","16/02/2018",1,1,0,1
+"89062EB61104CE6E","Veneto","Belluno","17/06/2019",1,1,1,1
+"A463DFB029766024","Provincia di Trento","Trento","17/07/2018",1,1,1,1
+"6108CD120C32248F","Provincia di Trento","Trento","18/05/2017",1,1,1,1
+"57B80A9490A25DC6","Provincia di Trento","Trento","18/05/2018",1,1,0,1
+"F86A731EE87ABD65","Provincia di Trento","Trento","23/09/2017",1,1,0,1
+"27F1F430D1647104","Lombardia","Lecco","24/10/2018",1,1,0,1
+"5D388CDE49DEDF46","Veneto","Belluno","25/02/2018",1,1,0,1
+"613E07111545BBCF","Veneto","Belluno","25/12/2017",1,1,0,1
+"AE1977657F336AB5","Provincia di Trento","Trento","26/12/2018",1,1,1,1
+"6B3B739BB73E15C7","Provincia di Trento","Trento","27/03/2019",1,1,0,1
+"56DBE15F11B4A84A","Provincia di Trento","Trento","28/08/2018",1,1,1,1
+"FE0F4D01D4105850","Provincia di Trento","Trento","29/10/2018",1,1,0,1
+"FB3EC23E31FF3308","Estero","Estero","01/03/2015",2,1,0,1
+"D13B09CD358AD440","Emilia-Romagna","Ferrara","01/04/2015",2,1,1,1
+"EDEAB16A8F3AF83E","Veneto","Belluno","08/08/2015",2,1,0,1
+"7ECE2BF3271262EE","Provincia di Trento","Trento","09/02/2017",2,1,0,1
+"062AC5793AF1133C","Provincia di Trento","Trento","11/03/2015",2,1,1,1
+"96F4D7DEBCB43DC7","Provincia di Trento","Trento","12/05/2014",2,1,1,1
+"258A7A9FA7568C95","Provincia di Trento","Trento","12/08/2016",2,1,0,1
+"27171B23093214F2","Provincia di Trento","Trento","12/09/2014",2,1,1,1
+"8AB3F933C26593E6","Friuli-Venezia Giulia","Udine","13/12/2012",2,1,1,1
+"D4F2E3E88DA9B37A","Veneto","Belluno","14/05/2012",2,1,1,1
+"863C512A66530543","Lazio","Roma","16/10/2012",2,1,1,1
+"31487C3F2C13F815","Lazio","Roma","18/04/2016",2,1,0,1
+"83D9117E8F064C0B","Provincia di Trento","Trento","18/06/2015",2,1,1,1
+"F6583C2AF138E377","Provincia di Trento","Trento","19/09/2013",2,1,1,1
+"CD97612881D126DA","Provincia di Trento","Trento","19/10/2016",2,1,1,1
+"807B5BFC9469F5E5","Estero","Estero","20/03/2013",2,1,1,1
+"7A54517F38A315A2","Molise","Campobasso","21/02/2013",2,1,0,1
+"1BE057F56194EA40","Provincia di Trento","Trento","22/04/2014",2,1,0,1
+"5EF8F1B97CCD8085","Provincia di Trento","Trento","22/05/2013",2,1,1,1
+"CD4190FA785EC77D","Provincia di Trento","Trento","22/09/2016",2,1,0,1
+"BB3E2A189040EC4A","Friuli-Venezia Giulia","Udine","23/03/2014",2,1,1,1
+"1ABF04BA7E02D142","Provincia di Trento","Trento","23/07/2014",2,1,0,1
+"6D7C874E0FF91EEA","Provincia di Trento","Trento","24/08/2015",2,1,0,1
+"84438B7F3C432976","Provincia di Trento","Trento","26/02/2016",2,1,1,1
+"A380A97BD0095635","Veneto","Belluno","27/07/2013",2,1,0,1
+"56EB0C288FDF7FCF","Provincia di Trento","Trento","28/02/2013",2,1,1,1
+"132B965D7E718969","Lombardia","Milano","29/05/2017",2,1,1,1
+"BB45266A0179F9B2","Provincia di Trento","Trento","31/08/2012",2,1,1,1
+"2208D20BB2F51306","Toscana","Livorno","01/06/2009",3,1,1,1
+"ACA83A7FD8ABDC8A","Veneto","Belluno","01/12/2004",3,1,1,1
+"FB26123C9BA98EB5","Provincia di Trento","Trento","02/06/2006",3,1,1,1
+"1D9216288B9A78D2","Veneto","Belluno","02/08/2004",3,1,0,1
+"8C195619BA7F5B86","Provincia di Trento","Trento","04/08/2011",3,1,1,1
+"EFC2CE0E7ACB72AF","Provincia di Trento","Trento","04/09/2006",3,1,1,1
+"E09A60E34072837F","Provincia di Trento","Trento","05/08/2005",3,1,0,1
+"6510CBF437B1FE84","Provincia di Trento","Trento","06/04/2011",3,1,1,1
+"CDE7192B2FBA39C9","Veneto","Belluno","06/12/2006",3,1,1,1
+"85D66D8D42C5EAE5","Veneto","Belluno","07/05/2004",3,1,1,1
+"8232B9AE090F9644","Provincia di Trento","Trento","07/08/2008",3,1,0,1
+"28D29680FB2CD179","Veneto","Belluno","07/09/2011",3,1,1,1
+"B4867B2D319CF887","Veneto","Belluno","07/10/2009",3,1,1,1
+"2FDAF86F275231B6","Provincia di Trento","Trento","07/10/2011",3,1,1,1
+"A10C5DB5C7E4059E","Provincia di Trento","Trento","09/01/2010",3,1,1,1
+"4EE2DD622DDAB762","Veneto","Belluno","09/10/2007",3,1,1,1
+"169B94A55DDBCD9C","Friuli-Venezia Giulia","Udine","10/09/2004",3,1,1,1
+"DE40F1F3C4D08598","Lombardia","Milano","12/11/2007",3,1,1,1
+"4A74BC1EDCC8B523","Veneto","Belluno","14/01/2005",3,1,1,1
+"2CAE611B9CEE9F95","Veneto","Belluno","14/03/2010",3,1,1,1
+"466B1AD31ED939C7","Estero","Estero","14/05/2012",3,1,1,1
+"E386ACC003DC2777","Provincia di Trento","Trento","16/06/2007",3,1,1,1
+"2879086555F0B888","Provincia di Trento","Trento","17/05/2004",3,1,1,1
+"8D2EC80C73E3D851","Estero","Estero","19/05/2010",3,1,1,1
+"4CE0A07D921A7E45","Estero","Estero","19/08/2011",3,1,0,1
+"4A4D85B90536CDF8","Veneto","Belluno","21/06/2007",3,1,0,1
+"D1F2115C301D7386","Veneto","Belluno","22/02/2009",3,1,1,1
+"7272E98CFAE02F8B","Veneto","Belluno","22/04/2010",3,1,0,1
+"28AE364EF102C262","Provincia di Trento","Trento","22/06/2011",3,1,1,1
+"4C0F4D135222AD43","Provincia di Trento","Trento","22/12/2007",3,1,0,1
+"F7455746C4984A73","Provincia di Trento","Trento","23/05/2007",3,1,1,1
+"01589AD96BEDEB78","Provincia di Trento","Trento","23/05/2009",3,1,1,1
+"058C587C87B2B6BA","Provincia di Bolzano","Bolzano-Bozen","25/01/2006",3,1,0,1
+"636C42E828B86BEE","Veneto","Belluno","25/07/2006",3,1,0,1
+"90922E7F12EE8765","Lombardia","Como","25/11/2005",3,1,0,1
+"20E013A5D29CCAE0","Marche","Ancona","26/10/2006",3,1,1,1
+"BE956A5B60225AC7","Provincia di Trento","Trento","27/03/2007",3,1,1,1
+"BD91469031082D5C","Lombardia","Milano","27/07/2010",3,1,1,1
+"A9CB16804BB718AF","Lombardia","Milano","29/09/2004",3,1,1,1
+"721152DC7ED878FA","Veneto","Belluno","29/10/2005",3,1,0,1
+"B8F7DF4282CA5214","Provincia di Trento","Trento","29/12/2010",3,1,0,1
+"D120B5048DD6A5BA","Estero","Estero","30/03/2008",3,1,1,1
+"2B48CB44DC28F1E3","Provincia di Trento","Trento","30/12/2010",3,1,1,1
+"C89B90629ACBE036","Veneto","Belluno","02/03/1997",4,1,0,1
+"3D058F22234AA119","Veneto","Belluno","02/08/1997",4,1,0,1
+"5A8D25925FF1015A","Veneto","Belluno","03/03/2003",4,1,0,1
+"67DCF720621ED323","Veneto","Belluno","03/04/1995",4,1,0,1
+"AF600E8E8403E7F9","Veneto","Belluno","04/03/1999",4,1,1,1
+"F4F3C79D5B84454A","Provincia di Trento","Trento","04/12/2002",4,1,0,1
+"DE666CD632C1BEC9","Veneto","Belluno","05/04/1996",4,1,0,1
+"10557BBD1907491B","Veneto","Belluno","05/04/2000",4,1,0,1
+"9578C829FCA61AEB","Veneto","Belluno","05/04/2002",4,1,1,1
+"224BE2A12E2B5567","Veneto","Belluno","05/06/1994",4,1,0,1
+"DCC32DBED0074E2D","Lazio","Roma","05/08/2000",4,1,1,1
+"5C728D66BC1750CF","Veneto","Belluno","06/03/1999",4,1,0,1
+"9B03033BCDE5C74E","Veneto","Belluno","06/08/1997",4,1,1,1
+"4F983330EE4C3138","Veneto","Belluno","06/11/2002",4,1,1,1
+"222ED825E0DDF992","Veneto","Belluno","06/12/2000",4,1,0,1
+"0AE920C9EB211C46","Veneto","Treviso","07/09/1996",4,1,0,1
+"3627E483986730F3","Veneto","Belluno","08/04/1995",4,1,1,1
+"CC5C16505F3504FB","Veneto","Belluno","08/05/2000",4,1,0,1
+"D2777BB7BB97E88E","Veneto","Belluno","08/08/1994",4,1,1,1
+"7A47288718738E9B","Provincia di Trento","Trento","08/08/1995",4,1,1,1
+"8B62A413E86D5447","Veneto","Belluno","09/01/2003",4,1,0,1
+"8E4BB2385F21E56D","Veneto","Belluno","11/01/2000",4,1,0,1
+"AEB3B3DB56372792","Provincia di Trento","Trento","13/01/2003",4,1,1,1
+"077C45330F20AE27","Friuli-Venezia Giulia","Udine","13/08/1999",4,1,0,1
+"8A6FA36C72B1027D","Veneto","Belluno","15/07/2000",4,1,0,1
+"2B59069C28A14086","Veneto","Belluno","15/12/1999",4,1,0,1
+"438F87264D16D745","Veneto","Belluno","16/05/2003",4,1,0,1
+"F2997AF64F880A0A","Veneto","Belluno","16/07/1998",4,1,0,1
+"4A7FEFAAECDA6837","Veneto","Belluno","17/05/1998",4,1,1,1
+"66E935EE478E488E","Veneto","Belluno","17/11/1995",4,1,0,1
+"75116EEF00D4A942","Veneto","Belluno","18/12/1999",4,1,1,1
+"E0BD9BBECA441D52","Lazio","Roma","19/05/2001",4,1,1,1
+"6C5BE8AF94D8EE7D","Veneto","Belluno","19/05/2003",4,1,0,1
+"5432DC3DAEBCD3B4","Veneto","Belluno","19/10/1997",4,1,0,1
+"AB1989BABB0200AC","Veneto","Belluno","22/03/2001",4,1,0,1
+"8D731CB12FB50D66","Veneto","Belluno","22/06/1997",4,1,0,1
+"97C0E91BE21294FF","Veneto","Belluno","22/07/1994",4,1,1,1
+"97CEBD81C2C97203","Veneto","Belluno","22/10/2001",4,1,1,1
+"51CC21F74E154289","Veneto","Belluno","22/12/2000",4,1,0,1
+"21038AEA1ACE7A06","Veneto","Belluno","23/06/2001",4,1,0,1
+"42BFAC877F8D6597","Provincia di Trento","Trento","23/09/2002",4,1,1,1
+"1220BD6765DB2D86","Veneto","Belluno","24/04/1997",4,1,0,1
+"DB7F44F680B5AFAA","Veneto","Belluno","24/08/1996",4,1,1,1
+"FF8B38F3D8A1D5C3","Veneto","Belluno","24/12/1994",4,1,0,1
+"6E3FA9D8EEC98CAC","Veneto","Belluno","25/02/1997",4,1,0,1
+"45C32E0DEC3661AF","Toscana","Firenze","25/02/1997",4,1,0,1
+"AD667F1108B5115D","Veneto","Belluno","25/04/2003",4,1,1,1
+"BF5B31CB8C50EF37","Veneto","Belluno","25/12/2002",4,1,1,1
+"BEC577D9E5A7D825","Veneto","Belluno","26/07/1997",4,1,1,1
+"DEA6FE8CCCF560ED","Veneto","Belluno","26/08/1994",4,1,1,1
+"C9C3098C93AB66CD","Veneto","Belluno","28/05/2001",4,1,0,1
+"418C36E7415B4F0F","Veneto","Belluno","28/06/1998",4,1,0,1
+"F7BB1BA147F41299","Veneto","Belluno","28/08/1998",4,1,0,1
+"786CAA2AF254D9B4","Veneto","Belluno","29/09/1996",4,1,0,1
+"473ED5CB33728B7D","Veneto","Belluno","30/08/1997",4,1,1,1
+"EAA2A2363CF2A91E","Provincia di Trento","Trento","31/12/2001",4,1,0,1
+"7B65BE2D4584B054","Veneto","Treviso","01/03/1988",5,1,0,1
+"4A66AF5007DA25D1","Provincia di Trento","Trento","01/08/1980",5,1,0,1
+"CB2410CAA62C8BA1","Veneto","Belluno","01/09/1987",5,1,1,1
+"CAFDD4B82F1CD2C8","Veneto","Belluno","01/10/1974",5,1,0,1
+"5DB49CCA37E9CDD0","Veneto","Belluno","01/10/1982",5,1,0,1
+"9ECABCE53FB64CB2","Estero","Estero","02/02/1980",5,1,0,1
+"027E2D413D7DEFF1","Veneto","Belluno","02/05/1979",5,1,0,1
+"3BE59189F0433183","Veneto","Belluno","02/06/1982",5,1,0,1
+"B84EDD58C9640587","Veneto","Belluno","02/06/1992",5,1,0,1
+"F8D89F5918899E3B","Veneto","Belluno","02/07/1983",5,1,1,1
+"F56E1752F6634353","Veneto","Belluno","02/07/1987",5,1,0,1
+"BECC6FD007F104F6","Veneto","Belluno","02/09/1979",5,1,1,1
+"6824C80990E0B8FB","Provincia di Trento","Trento","02/09/1988",5,1,1,1
+"81DB76F41961EA7B","Veneto","Belluno","02/09/1990",5,1,1,1
+"3112F6E27CFF4383","Veneto","Belluno","02/10/1988",5,1,0,1
+"B2D4709CC5D9943E","Provincia di Trento","Trento","03/08/1978",5,1,0,1
+"3C64C4BDD1D44074","Veneto","Belluno","03/08/1986",5,1,0,1
+"9C977A2DD5AB0C8F","Veneto","Treviso","03/10/1984",5,1,0,1
+"214EBEAC80A94F8A","Veneto","Belluno","03/11/1980",5,1,0,1
+"767B2F0CB2C85768","Veneto","Belluno","03/11/1985",5,1,0,1
+"15D5684D9D97A507","Veneto","Belluno","04/01/1989",5,1,1,1
+"DB5C25A0FBC356D7","Piemonte","Torino","04/04/1985",5,1,0,1
+"73687801F1B3E8B7","Veneto","Belluno","04/06/1981",5,1,1,1
+"51FD29AFC40BCBAD","Provincia di Trento","Trento","04/10/1983",5,1,0,1
+"5A65798A51B8CB8F","Veneto","Belluno","04/11/1991",5,1,0,1
+"9AA11C5E95BD5D29","Estero","Estero","04/12/1979",5,1,1,1
+"B9B2B2AC2DCD6E25","Veneto","Belluno","04/12/1992",5,1,1,1
+"30F860ECE22E1052","Friuli-Venezia Giulia","Udine","05/02/1983",5,1,0,1
+"FFAB0AF21E87C7D5","Veneto","Belluno","05/04/1992",5,1,0,1
+"395F22BEDA04492A","Estero","Estero","05/05/1987",5,1,1,1
+"54BC162D7B22BB4A","Veneto","Belluno","05/06/1993",5,1,0,1
+"3AC3E777B9EF2198","Veneto","Belluno","05/09/1976",5,1,0,1
+"AF9D35200C228602","Friuli-Venezia Giulia","Udine","05/10/1985",5,1,1,1
+"2763DDA1A32ECAED","Piemonte","Alessandria","05/10/1989",5,1,0,1
+"F22E008D36A7DCE3","Veneto","Belluno","06/01/1992",5,1,0,1
+"6A3E81E03E14156B","Lombardia","Milano","06/09/1983",5,1,0,1
+"EC24AC22C50CBA34","Sardegna","Sud Sardegna","07/02/1985",5,1,1,1
+"B4753A8B235618AE","Veneto","Belluno","07/03/1983",5,1,0,1
+"8B4534DFC7FCADF1","Veneto","Belluno","07/06/1984",5,1,0,1
+"A8AB22AB82BB0A42","Veneto","Belluno","07/06/1986",5,1,0,1
+"BBFF3697511FD9EE","Veneto","Belluno","07/09/1992",5,1,0,1
+"16E28422041C2901","Veneto","Belluno","07/11/1984",5,1,0,1
+"6244FFD396FA3AAB","Veneto","Belluno","08/01/1984",5,1,0,1
+"B8769B701D35E6BD","Veneto","Belluno","08/05/1982",5,1,0,1
+"EA312123B5581DD4","Calabria","Cosenza","08/05/1983",5,1,0,1
+"5168AC329EAF5186","Puglia","Foggia","08/06/1983",5,1,1,1
+"9B39EB0859652F3B","Veneto","Belluno","08/08/1975",5,1,1,1
+"055774525C773DFA","Veneto","Belluno","08/10/1988",5,1,0,1
+"63DABD97DB6E5BEE","Veneto","Belluno","08/12/1979",5,1,0,1
+"DC9D69955BE78774","Veneto","Belluno","09/04/1981",5,1,0,1
+"469041773AAC10E0","Veneto","Belluno","09/05/1975",5,1,0,1
+"F943CA08B8F64C9F","Puglia","Foggia","09/05/1985",5,1,1,1
+"821E5E831C84AD05","Provincia di Trento","Trento","09/07/1989",5,1,0,1
+"F86A26DE447DE955","Veneto","Belluno","09/08/1984",5,1,0,1
+"225ACF5C9E9D5309","Veneto","Belluno","09/09/1983",5,1,1,1
+"0CADB40C54557A9C","Campania","Napoli","09/11/1975",5,1,1,1
+"7E4393C32EF9FE6D","Veneto","Belluno","10/02/1978",5,1,0,1
+"FD06837E993AB212","Veneto","Belluno","10/02/1986",5,1,0,1
+"E534A33C09FE4991","Veneto","Belluno","10/03/1980",5,1,0,1
+"57D17D2922C8B3E6","Veneto","Belluno","10/03/1981",5,1,0,1
+"B0296572A623F7B7","Veneto","Belluno","10/06/1983",5,1,1,1
+"BA7022897368E0D6","Veneto","Belluno","10/06/1992",5,1,0,1
+"8B5A826274ABFF2E","Veneto","Belluno","10/08/1977",5,1,0,1
+"2A6CEE99D68F47E2","Veneto","Belluno","10/08/1982",5,1,0,1
+"C839D970F5FBFFB9","Provincia di Trento","Trento","10/08/1991",5,1,0,1
+"0C7A8798C1DDC32C","Veneto","Belluno","11/03/1988",5,1,1,1
+"98070D174DE0A896","Veneto","Belluno","11/05/1983",5,1,0,1
+"85DC1B5085AAE19B","Veneto","Belluno","11/06/1979",5,1,1,1
+"C3CF4E5B12041FA8","Veneto","Belluno","12/02/1990",5,1,0,1
+"AEC9CB90A2226CD3","Molise","Campobasso","12/03/1980",5,1,0,1
+"D06F92339115FB24","Sardegna","Sud Sardegna","12/05/1980",5,1,1,1
+"150971B7925137F9","Lombardia","Sondrio","12/05/1988",5,1,1,1
+"A86CA9F4839F2901","Veneto","Belluno","12/06/1976",5,1,0,1
+"BB3D4F991D100D0C","Veneto","Belluno","12/08/1976",5,1,0,1
+"24A1684E65DF9BDE","Veneto","Belluno","12/09/1974",5,1,1,1
+"9D724A4DD3DE028F","Veneto","Belluno","12/09/1975",5,1,1,1
+"D95B7093AD8AA3DB","Friuli-Venezia Giulia","Pordenone","12/09/1982",5,1,0,1
+"AC32024611F4915D","Veneto","Belluno","12/09/1992",5,1,1,1
+"2DA1E624F3A14218","Veneto","Belluno","12/10/1978",5,1,0,1
+"0765CB07CF10EF74","Veneto","Belluno","13/02/1993",5,1,0,1
+"C98F62C2B03555BB","Veneto","Belluno","13/03/1982",5,1,1,1
+"39C912A79256C03D","Veneto","Belluno","13/05/1980",5,1,1,1
+"F60A0B48DB1A082D","Provincia di Trento","Trento","13/05/1986",5,1,0,1
+"3C421BE29ADB24BF","Veneto","Belluno","13/07/1978",5,1,1,1
+"703A2FB4507C8948","Veneto","Belluno","13/08/1987",5,1,0,1
+"7F7A4FC3D6019DD7","Veneto","Belluno","13/09/1992",5,1,0,1
+"28E290BE2D68C1EC","Veneto","Belluno","14/02/1986",5,1,0,1
+"A0D91DBF01A3BDA4","Veneto","Belluno","14/05/1985",5,1,0,1
+"536C2CD07E29DA25","Veneto","Belluno","14/06/1991",5,1,1,1
+"A0F83B5B871ADB07","Veneto","Belluno","14/08/1982",5,1,0,1
+"22AB9825AEE438FB","Friuli-Venezia Giulia","Udine","14/08/1983",5,1,0,1
+"BD55DCC6C20D14A2","Veneto","Belluno","14/10/1976",5,1,0,1
+"A9FA6034F939A2DA","Veneto","Belluno","14/11/1985",5,1,0,1
+"3BB7503E41410C21","Estero","Estero","15/01/1981",5,1,0,1
+"02E3BD44ADD375EE","Veneto","Belluno","15/01/1984",5,1,1,1
+"1B799D0EB2EE03C8","Veneto","Belluno","15/03/1990",5,1,1,1
+"F2CD557865D59297","Veneto","Belluno","15/05/1988",5,1,0,1
+"0FA6F6C061D06E7E","Veneto","Belluno","15/06/1979",5,1,0,1
+"B4C02BDE0768D9AA","Veneto","Belluno","15/06/1991",5,1,0,1
+"34931A97BF66E794","Sicilia","Palermo","15/09/1978",5,1,1,1
+"539AC27E98C0AA8C","Veneto","Belluno","15/11/1986",5,1,0,1
+"B3F5A08F5EC7310B","Veneto","Belluno","16/01/1989",5,1,0,1
+"DFE6F940992188DC","Veneto","Belluno","16/02/1984",5,1,0,1
+"3C6B20DAFE9EDCA9","Veneto","Belluno","16/03/1990",5,1,0,1
+"4F12F0E08B56E97F","Friuli-Venezia Giulia","Udine","16/05/1987",5,1,0,1
+"DA091C60652153BB","Emilia-Romagna","Bologna","16/07/1979",5,1,1,1
+"5A92A5F8AC77E1AD","Lombardia","Milano","16/07/1986",5,1,1,1
+"2B19E52D39019AE1","Lombardia","Brescia","16/10/1979",5,1,1,1
+"26C32C7C44A5AF59","Veneto","Belluno","16/10/1991",5,1,0,1
+"D098839C5343CC61","Veneto","Belluno","16/12/1985",5,1,0,1
+"417C74A8C737CBB4","Veneto","Belluno","16/12/1987",5,1,1,1
+"03B98C1D7CACA559","Estero","Estero","17/05/1984",5,1,0,1
+"1B2BE2B668EA0E0E","Veneto","Belluno","17/09/1993",5,1,0,1
+"B9957DC8AE264313","Lombardia","Bergamo","17/10/1975",5,1,1,1
+"69AC9FA0396B341F","Abruzzo","Teramo","18/03/1975",5,1,0,1
+"267821EBB48BB713","Veneto","Belluno","18/06/1984",5,1,1,1
+"2EA45C8065CD4C82","Veneto","Belluno","18/06/1992",5,1,0,1
+"52898C3F3613419A","Veneto","Belluno","18/11/1973",5,1,1,1
+"752ACD68693B1047","Veneto","Belluno","18/12/1983",5,1,1,1
+"6C78B1A02D8EB08A","Veneto","Belluno","19/01/1980",5,1,1,1
+"ED1A2B1096BEE000","Veneto","Belluno","19/04/1978",5,1,0,1
+"DA35E5CC2FDE0FC2","Provincia di Trento","Trento","19/05/1983",5,1,0,1
+"E1D4E088A7244B28","Veneto","Belluno","19/06/1987",5,1,0,1
+"C01E82EEC4BB9A51","Veneto","Belluno","19/09/1986",5,1,0,1
+"B7D4F0660516F369","Veneto","Belluno","19/10/1976",5,1,0,1
+"B50D4CD6D45D4797","Veneto","Belluno","19/10/1984",5,1,0,1
+"7AA492983D4F9A27","Veneto","Belluno","19/10/1991",5,1,0,1
+"73AE9F08A024FF40","Veneto","Belluno","20/01/1986",5,1,0,1
+"D0E2B151D731F514","Friuli-Venezia Giulia","Udine","20/01/1987",5,1,0,1
+"5EFDBCDC83C391C0","Provincia di Trento","Trento","20/02/1984",5,1,0,1
+"77992B39C989F66B","Veneto","Belluno","20/04/1993",5,1,0,1
+"77C7A58F4706BB63","Veneto","Belluno","20/06/1985",5,1,0,1
+"86199BDA73061CBE","Veneto","Belluno","20/07/1980",5,1,0,1
+"A23B322D7DC95C29","Veneto","Belluno","20/07/1986",5,1,0,1
+"02325400D07BD7BE","Veneto","Belluno","20/07/1987",5,1,0,1
+"DE6662F288B7FF68","Veneto","Belluno","20/08/1977",5,1,0,1
+"9A2C53F9FB995552","Veneto","Belluno","20/09/1989",5,1,0,1
+"D7BF48D4A1B13F08","Provincia di Trento","Trento","20/10/1979",5,1,0,1
+"AC1D8CE256E68047","Veneto","Belluno","20/11/1983",5,1,0,1
+"C44ACDD5E8C202CB","Veneto","Belluno","20/11/1983",5,1,0,1
+"E1CB194AB5BA84C7","Veneto","Belluno","20/12/1985",5,1,0,1
+"8EE44E5E71452B36","Veneto","Belluno","21/02/1982",5,1,0,1
+"6CCA2AC2F8EE78FD","Veneto","Belluno","21/08/1983",5,1,0,1
+"44E2D01533E8D661","Veneto","Belluno","21/10/1974",5,1,0,1
+"F5112B684E262295","Veneto","Belluno","22/01/1992",5,1,1,1
+"EE330C5A19635270","Veneto","Belluno","22/03/1974",5,1,0,1
+"E6464CE0C7737304","Friuli-Venezia Giulia","Pordenone","22/05/1977",5,1,0,1
+"CD08EADDCE3772F8","Veneto","Belluno","22/05/1978",5,1,0,1
+"93F96C90B3E06DC8","Provincia di Trento","Trento","22/08/1986",5,1,0,1
+"B70AB482E988F16E","Friuli-Venezia Giulia","Udine","22/08/1986",5,1,0,1
+"9C16AF4649BC61BD","Veneto","Belluno","22/09/1973",5,1,0,1
+"A07F58B5B1FB3451","Veneto","Belluno","22/10/1974",5,1,0,1
+"DEBCD2FDFB982968","Veneto","Belluno","22/10/1993",5,1,1,1
+"DADD605A2DBE85F6","Veneto","Belluno","22/11/1975",5,1,1,1
+"F0921219853F08F0","Veneto","Belluno","23/01/1984",5,1,1,1
+"80DF1C102A72D19D","Veneto","Belluno","23/02/1974",5,1,0,1
+"8F6F27FF66446776","Veneto","Belluno","23/02/1975",5,1,0,1
+"D7739A665A581EFB","Veneto","Belluno","23/04/1993",5,1,1,1
+"465F6D67F43E5DEE","Veneto","Belluno","23/05/1979",5,1,0,1
+"FF0DC1D747D7C122","Veneto","Treviso","23/11/1988",5,1,0,1
+"80CB3C6E225A7839","Provincia di Trento","Trento","23/12/1985",5,1,0,1
+"E27ED24B803E671E","Veneto","Belluno","24/02/1991",5,1,1,1
+"5CBC8BE59EB91D80","Veneto","Belluno","24/04/1977",5,1,1,1
+"5A24259348CD256A","Veneto","Belluno","24/04/1989",5,1,0,1
+"B2A0EF979511BED5","Veneto","Belluno","24/05/1980",5,1,0,1
+"65525E55C924D022","Veneto","Belluno","24/06/1982",5,1,0,1
+"2FF98F75B26C78CC","Veneto","Belluno","24/11/1983",5,1,0,1
+"97E6F6ADDF509047","Veneto","Belluno","24/12/1982",5,1,0,1
+"215592722F73A65B","Veneto","Belluno","24/12/1983",5,1,0,1
+"E854EFBA367632AE","Veneto","Belluno","25/02/1976",5,1,0,1
+"E205A29AF235B2A8","Veneto","Belluno","25/04/1974",5,1,1,1
+"22C8013D992DCE2F","Veneto","Belluno","25/06/1989",5,1,0,1
+"02C583D415A97A41","Veneto","Belluno","25/07/1974",5,1,1,1
+"DAC9C4F616A19EE4","Veneto","Belluno","25/10/1974",5,1,1,1
+"19C9D3F53B7A3633","Veneto","Belluno","25/11/1990",5,1,1,1
+"BE83ABCBA7CA35DC","Veneto","Belluno","25/12/1988",5,1,0,1
+"734B4F4D0E5924C7","Friuli-Venezia Giulia","Pordenone","26/04/1979",5,1,0,1
+"D9B88332A3F9AE45","Veneto","Belluno","26/04/1980",5,1,0,1
+"F049F6BB691427E1","Veneto","Belluno","26/04/1993",5,1,0,1
+"F8964CFACD654695","Veneto","Belluno","26/05/1989",5,1,1,1
+"19722FD1312805CD","Puglia","Foggia","26/10/1975",5,1,1,1
+"2597D6EBA22725EC","Veneto","Belluno","26/12/1983",5,1,1,1
+"859048D38FF49A2E","Calabria","Catanzaro","27/06/1982",5,1,1,1
+"21D51E66BFE943AA","Estero","Estero","27/07/1990",5,1,1,1
+"1EB74B70566CB3F9","Veneto","Belluno","27/08/1978",5,1,0,1
+"CF7AE3B5EDF19B12","Veneto","Belluno","27/08/1986",5,1,0,1
+"84BA314AF9FAFD8B","Veneto","Belluno","27/11/1978",5,1,1,1
+"0EF57518D37F2975","Veneto","Belluno","27/11/1985",5,1,0,1
+"561247A4B7B596C7","Veneto","Belluno","27/12/1981",5,1,0,1
+"103FE04FA30BF477","Veneto","Belluno","28/02/1973",5,1,1,1
+"6FF93628F8FE10EA","Veneto","Belluno","28/06/1977",5,1,1,1
+"7AB9BD4E768CD431","Toscana","Livorno","28/06/1989",5,1,1,1
+"1C1C408D4CCE9F20","Veneto","Belluno","28/11/1975",5,1,0,1
+"F919525FE78BB2C4","Veneto","Belluno","28/11/1980",5,1,0,1
+"C64EBF08776B3580","Veneto","Belluno","28/11/1987",5,1,0,1
+"E43A042CFA8DDC5E","Veneto","Belluno","29/05/1985",5,1,0,1
+"0B510472E7C6341C","Veneto","Belluno","29/05/1992",5,1,0,1
+"1F7B1A2FE535C972","Veneto","Belluno","29/08/1980",5,1,0,1
+"9AF3552C2062EA43","Veneto","Belluno","29/08/1981",5,1,1,1
+"F1C768C8E49E044F","Sicilia","Catania","29/10/1990",5,1,1,1
+"6C282A4B38E47C06","Friuli-Venezia Giulia","Pordenone","30/01/1983",5,1,0,1
+"1BE37FC10FAEA299","Veneto","Belluno","30/01/1986",5,1,0,1
+"B0573BC5DF2B1484","Friuli-Venezia Giulia","Gorizia","30/04/1979",5,1,1,1
+"A530FE5992F50C3E","Veneto","Belluno","30/06/1980",5,1,0,1
+"52A76C797FB5D095","Veneto","Belluno","30/12/1988",5,1,0,1
+"888631C1D091B232","Veneto","Belluno","31/07/1974",5,1,0,1
+"0C6CA0D956A06548","Veneto","Belluno","31/07/1978",5,1,1,1
+"2E8C3CF6977F50FC","Veneto","Belluno","31/08/1989",5,1,0,1
+"B0EE93FC1F186299","Veneto","Belluno","31/08/1989",5,1,1,1
+"2EFAC64F94598758","Veneto","Belluno","01/01/1956",6,1,0,1
+"5D65FE182B350437","Veneto","Belluno","01/01/1960",6,1,0,1
+"D55F03E6B3E60FA1","Veneto","Belluno","01/01/1963",6,1,1,1
+"29417F63D763F391","Veneto","Belluno","01/02/1973",6,1,1,1
+"70A879A1D64692D6","Veneto","Belluno","01/03/1958",6,1,0,1
+"6555183186B44008","Veneto","Belluno","01/05/1969",6,1,0,1
+"5465FD6FF86A8B6F","Veneto","Belluno","01/06/1963",6,1,0,1
+"D531E4728A3D710A","Veneto","Belluno","01/07/1972",6,1,1,1
+"ACF16582D489CC03","Veneto","Belluno","01/10/1953",6,1,0,1
+"A76EEBD765AC50AE","Veneto","Belluno","01/12/1960",6,1,0,1
+"B71C0645B2E11E5F","Friuli-Venezia Giulia","Udine","01/12/1970",6,1,0,1
+"D5C057E13667C486","Veneto","Belluno","02/02/1967",6,1,1,1
+"6F68636C9BB36C1D","Veneto","Belluno","02/02/1972",6,1,0,1
+"948822EDD5CD588D","Veneto","Belluno","02/03/1968",6,1,1,1
+"A7BF63FF088D2FB8","Veneto","Belluno","02/05/1959",6,1,1,1
+"3F534D4069212447","Toscana","Livorno","02/05/1968",6,1,0,1
+"3165CD38A0E4719C","Veneto","Belluno","02/08/1956",6,1,0,1
+"E10012DE5197E5C4","Veneto","Belluno","02/10/1966",6,1,1,1
+"8C61BA78E4658EA5","Provincia di Trento","Trento","02/12/1970",6,1,0,1
+"E7857CC01FD72D87","Veneto","Belluno","03/01/1959",6,1,1,1
+"4689D787DF812AB2","Veneto","Belluno","03/01/1961",6,1,0,1
+"47322D6C09DBF1E7","Veneto","Belluno","03/03/1964",6,1,1,1
+"ABF8C3CC7D2F074B","Veneto","Belluno","03/04/1971",6,1,0,1
+"0E12D1DD034EDD65","Veneto","Belluno","03/05/1962",6,1,0,1
+"1DED9001970D37CB","Veneto","Belluno","03/08/1963",6,1,0,1
+"D25A2D952B2B9F6A","Marche","Pesaro e Urbino","03/08/1969",6,1,0,1
+"862E20D93CE2C9C7","Veneto","Belluno","03/09/1958",6,1,1,1
+"D4DF5CF807568008","Campania","Salerno","03/11/1968",6,1,0,1
+"2F585487264AED11","Veneto","Belluno","03/12/1967",6,1,0,1
+"D9211596E8DB0369","Veneto","Belluno","03/12/1972",6,1,1,1
+"95AB1FDF8F84A59F","Veneto","Belluno","04/01/1970",6,1,0,1
+"DA0EAC40D06CB70A","Veneto","Belluno","04/02/1973",6,1,0,1
+"4250FB6FEAD7E447","Veneto","Belluno","04/04/1962",6,1,0,1
+"AE01FAE57D1E0431","Veneto","Belluno","04/05/1963",6,1,0,1
+"975579A8E70F120A","Veneto","Belluno","04/08/1958",6,1,0,1
+"DA53A91156F423E5","Veneto","Belluno","04/08/1961",6,1,1,1
+"82643C8482DDA0E3","Veneto","Treviso","04/08/1962",6,1,1,1
+"22F3AD78E99554F6","Veneto","Belluno","04/09/1965",6,1,1,1
+"11431C56580C617C","Veneto","Belluno","04/10/1956",6,1,0,1
+"7C419F8E2FF2496A","Veneto","Belluno","04/11/1954",6,1,1,1
+"9AEDB54B3ABE102C","Veneto","Belluno","04/12/1954",6,1,0,1
+"C45780725175AF9F","Veneto","Belluno","04/12/1954",6,1,1,1
+"8B319741D645E488","Veneto","Belluno","04/12/1960",6,1,0,1
+"D266334C269294EA","Veneto","Belluno","04/12/1960",6,1,0,1
+"1B48869376E0D794","Veneto","Belluno","04/12/1961",6,1,0,1
+"A3EDE887B7C2AAD7","Veneto","Belluno","04/12/1961",6,1,0,1
+"D71CFBD5EECBEE9C","Veneto","Belluno","05/01/1960",6,1,0,1
+"5730D114A85522FC","Veneto","Belluno","05/02/1959",6,1,1,1
+"F3227B1946ECADA0","Veneto","Belluno","05/02/1970",6,1,1,1
+"D501D6CD3F443F7A","Veneto","Belluno","05/04/1964",6,1,0,1
+"35E1F61529F1E98E","Calabria","Cosenza","05/05/1968",6,1,1,1
+"CC5FC986C4288C35","Provincia di Trento","Trento","05/06/1965",6,1,0,1
+"FEFA856C5277E15C","Veneto","Belluno","05/06/1972",6,1,1,1
+"F4BD294C95FC31CD","Veneto","Belluno","05/09/1956",6,1,0,1
+"5612EBFC05BB67DF","Veneto","Belluno","05/09/1959",6,1,1,1
+"75111309C45F47CA","Veneto","Belluno","05/09/1969",6,1,1,1
+"0999DB81C247C173","Veneto","Belluno","05/11/1965",6,1,0,1
+"EEC65B706084F04C","Veneto","Belluno","05/11/1966",6,1,0,1
+"669DF01D4A52B5EB","Veneto","Belluno","05/12/1957",6,1,1,1
+"9149C5246301CB7E","Veneto","Belluno","05/12/1958",6,1,0,1
+"C30AB45F83456FE0","Veneto","Belluno","06/02/1960",6,1,1,1
+"412C5D358C3D6D45","Veneto","Belluno","06/03/1960",6,1,0,1
+"F1BF5A50FE4673C7","Veneto","Belluno","06/03/1960",6,1,0,1
+"11EEBD96D9783D33","Veneto","Belluno","06/04/1957",6,1,0,1
+"A1EBE3B4EEAFEF98","Lombardia","Monza e della Brianza","06/05/1959",6,1,1,1
+"719468E5E9D9D515","Veneto","Belluno","06/07/1954",6,1,0,1
+"95C41B0E60C95BF1","Veneto","Belluno","06/07/1967",6,1,0,1
+"C0350E2BCBAA30B4","Campania","Salerno","06/08/1962",6,1,1,1
+"F586367DD2AE905C","Emilia-Romagna","Bologna","06/08/1970",6,1,0,1
+"3E8C59CBAD5C1A33","Veneto","Belluno","06/09/1958",6,1,1,1
+"40D40438D1B857F7","Veneto","Belluno","06/09/1963",6,1,0,1
+"6FDA1793AA16EBF2","Veneto","Belluno","06/09/1965",6,1,1,1
+"5A075CE42314BFCC","Veneto","Belluno","06/10/1967",6,1,0,1
+"0D0D8B411A26769E","Veneto","Belluno","06/11/1968",6,1,0,1
+"3B042915C06B29C2","Veneto","Belluno","06/12/1964",6,1,1,1
+"90386AA4AB4F51C5","Veneto","Belluno","07/01/1956",6,1,0,1
+"29A5BE7107B1657E","Veneto","Belluno","07/02/1959",6,1,1,1
+"52BFAE6C4771F3DC","Veneto","Belluno","07/03/1974",6,1,0,1
+"67141830429873B5","Veneto","Belluno","07/04/1958",6,1,0,1
+"659FE6AD3A2BED4A","Veneto","Belluno","07/04/1960",6,1,0,1
+"6FD00AB22789F4EF","Veneto","Belluno","07/05/1964",6,1,0,1
+"9872E7EA167CF523","Veneto","Belluno","07/05/1974",6,1,1,1
+"9342F587F7DDC303","Friuli-Venezia Giulia","Pordenone","07/06/1963",6,1,0,1
+"F31AEF154E0C83D3","Veneto","Belluno","07/07/1955",6,1,0,1
+"337C9AD28E066292","Veneto","Belluno","07/08/1957",6,1,1,1
+"A80EBF525A77AE7A","Friuli-Venezia Giulia","Udine","07/09/1958",6,1,0,1
+"6E406D8E2125FEA7","Veneto","Belluno","07/09/1967",6,1,0,1
+"9F73E47C67DD5D10","Veneto","Belluno","07/10/1954",6,1,0,1
+"E5ECFACB7A628867","Provincia di Bolzano","Bolzano-Bozen","07/10/1968",6,1,0,1
+"6C00D9CBFA955040","Veneto","Belluno","07/10/1972",6,1,0,1
+"BD1614A4750B7267","Veneto","Belluno","07/12/1969",6,1,0,1
+"4B9254498B5A3539","Veneto","Belluno","08/01/1960",6,1,1,1
+"F65C8B7F3696AD43","Veneto","Belluno","08/01/1973",6,1,0,1
+"5BEE7298D2F3341C","Veneto","Belluno","08/02/1955",6,1,1,1
+"9AFFBDC784BAC772","Veneto","Belluno","08/02/1963",6,1,0,1
+"8EE54E796232BFFE","Veneto","Belluno","08/02/1974",6,1,1,1
+"5FA01D30014F37CE","Veneto","Belluno","08/03/1972",6,1,0,1
+"44FE9F546AF5226C","Veneto","Belluno","08/04/1964",6,1,0,1
+"3D03F99DA3031AE7","Veneto","Belluno","08/08/1961",6,1,0,1
+"56BA77ACFAAD7282","Veneto","Belluno","08/09/1954",6,1,0,1
+"B98B8E583A208E84","Veneto","Belluno","08/09/1957",6,1,1,1
+"1C5582B1B4668978","Veneto","Belluno","09/01/1955",6,1,1,1
+"CA470A688EDB627E","Veneto","Belluno","09/02/1972",6,1,0,1
+"D3135E4D844E0C50","Sicilia","Palermo","09/02/1973",6,1,1,1
+"9CF7BB91962B2EDE","Veneto","Belluno","09/02/1974",6,1,0,1
+"FCE8D93EAD4636F3","Veneto","Belluno","09/03/1959",6,1,1,1
+"59758C118D34DE2C","Estero","Estero","09/04/1971",6,1,1,1
+"2851323CA6F5FEB7","Veneto","Belluno","09/07/1964",6,1,0,1
+"6CBDA918487350EA","Veneto","Belluno","09/08/1969",6,1,1,1
+"ECC5B560F4B95770","Veneto","Belluno","09/09/1959",6,1,0,1
+"906E1FED309A0AE9","Veneto","Belluno","09/11/1956",6,1,0,1
+"628FF647DB6A786D","Veneto","Belluno","09/12/1959",6,1,1,1
+"232631EC79666EDA","Veneto","Belluno","10/02/1958",6,1,0,1
+"E5FF5C46A2A5EE5E","Veneto","Belluno","10/03/1961",6,1,0,1
+"74CE6DCA2DC85774","Provincia di Trento","Trento","10/06/1954",6,1,1,1
+"C5E6E3EECE2CE215","Lombardia","Monza e della Brianza","10/06/1960",6,1,0,1
+"DC097809F9CF1B41","Friuli-Venezia Giulia","Udine","10/06/1969",6,1,0,1
+"7EE62A92B78E18AE","Friuli-Venezia Giulia","Pordenone","10/08/1958",6,1,0,1
+"92CD6E2301577267","Veneto","Belluno","10/08/1967",6,1,0,1
+"EA4E8ACA008DCFC5","Veneto","Belluno","10/11/1953",6,1,1,1
+"1471DE8E093D5D16","Veneto","Belluno","10/11/1958",6,1,0,1
+"24F32464BBD2069B","Veneto","Belluno","10/11/1960",6,1,0,1
+"EB4E7CC4B2AA7ED5","Veneto","Belluno","10/11/1966",6,1,1,1
+"F266BA28B9C06C32","Veneto","Belluno","10/12/1964",6,1,0,1
+"FA83A0E4ED84B008","Veneto","Belluno","11/02/1963",6,1,0,1
+"27F5B7254F350FEA","Sicilia","Siracusa","11/02/1966",6,1,0,1
+"2A4019FD6D6334F9","Provincia di Trento","Trento","11/03/1968",6,1,0,1
+"406ADBC10E91269B","Veneto","Belluno","11/04/1960",6,1,0,1
+"D196A875EC0B5EE3","Veneto","Belluno","11/07/1959",6,1,1,1
+"24470AB837BAE02F","Veneto","Belluno","11/07/1967",6,1,1,1
+"5570F24312C12E27","Veneto","Belluno","12/01/1954",6,1,0,1
+"730B8B3F89446FB8","Veneto","Belluno","12/01/1954",6,1,0,1
+"CFC656CC625A53F2","Campania","Caserta","12/01/1955",6,1,1,1
+"A93C7E7E1894CCA6","Provincia di Trento","Trento","12/01/1967",6,1,1,1
+"8D1E3CC851B6F03D","Veneto","Belluno","12/02/1962",6,1,0,1
+"FD31501F5E3BDB41","Veneto","Belluno","12/02/1968",6,1,1,1
+"F7496B0CB8BC1EA4","Veneto","Belluno","12/03/1961",6,1,1,1
+"0D67C2B9D9B41B43","Veneto","Belluno","12/03/1964",6,1,0,1
+"663A13E0D2E5B56F","Veneto","Belluno","12/03/1970",6,1,0,1
+"5878C4C3280D5DE5","Veneto","Belluno","12/05/1954",6,1,0,1
+"42FD6D0156F12FEB","Veneto","Belluno","12/05/1966",6,1,0,1
+"65687DD08A3A3DEA","Veneto","Belluno","12/06/1961",6,1,1,1
+"B15589C017FBC284","Veneto","Belluno","12/06/1968",6,1,1,1
+"C97257A2DED8B17A","Provincia di Trento","Trento","12/08/1953",6,1,0,1
+"2B3608CA7C500BC8","Veneto","Belluno","12/08/1956",6,1,0,1
+"025D29732C53D654","Veneto","Belluno","12/08/1959",6,1,1,1
+"7846E8E989C737EE","Veneto","Belluno","12/08/1970",6,1,1,1
+"D2AEAB8E76719012","Sicilia","Trapani","12/09/1957",6,1,0,1
+"76943109613B1DED","Veneto","Belluno","12/09/1973",6,1,1,1
+"A7604D576362248E","Veneto","Belluno","12/10/1955",6,1,1,1
+"0C4B7C6982B7A633","Provincia di Trento","Trento","12/11/1954",6,1,1,1
+"7B5479B978657D73","Veneto","Belluno","12/11/1958",6,1,1,1
+"CFB864D48E34FAD8","Veneto","Belluno","12/11/1959",6,1,1,1
+"AB33352C82BB14EA","Veneto","Belluno","12/11/1967",6,1,0,1
+"2E55A70108866023","Veneto","Belluno","13/01/1959",6,1,0,1
+"BBCD21CA9076916D","Veneto","Belluno","13/04/1969",6,1,0,1
+"A7023E4DDEA87919","Veneto","Belluno","13/05/1957",6,1,1,1
+"A71C425567F95F97","Veneto","Belluno","13/05/1968",6,1,0,1
+"4F70570081E4BE17","Veneto","Belluno","13/06/1963",6,1,0,1
+"9D56BB2A8941A266","Veneto","Belluno","13/10/1968",6,1,1,1
+"D896DE6BB326E774","Veneto","Belluno","13/11/1966",6,1,1,1
+"E23B29C577B90377","Veneto","Belluno","14/01/1958",6,1,0,1
+"CC4001C802D7F1F0","Veneto","Belluno","14/01/1970",6,1,1,1
+"F84856FBE49C5E4A","Veneto","Belluno","14/02/1961",6,1,0,1
+"224D8603197B841D","Veneto","Belluno","14/04/1958",6,1,0,1
+"12E2ADA79432B432","Veneto","Belluno","14/04/1964",6,1,0,1
+"F199FDE0C66F22DD","Veneto","Belluno","14/05/1955",6,1,1,1
+"D9C5F3641E127672","Veneto","Belluno","14/05/1965",6,1,0,1
+"9BA45208BC014346","Veneto","Belluno","14/06/1968",6,1,1,1
+"7C33677CC6272BAD","Veneto","Belluno","14/07/1960",6,1,0,1
+"EF2624DE9968E9A4","Veneto","Belluno","14/08/1960",6,1,0,1
+"97EB0FC3BB13C2D4","Veneto","Belluno","14/08/1968",6,1,0,1
+"39062F300F5DF842","Veneto","Belluno","14/09/1960",6,1,1,1
+"02F3EF42D5C5EBEF","Veneto","Belluno","14/10/1963",6,1,1,1
+"31560BD769642776","Provincia di Trento","Trento","14/11/1960",6,1,1,1
+"70A0A3A3212F6CD2","Veneto","Belluno","14/12/1963",6,1,1,1
+"C712ABA0ED7ACBA9","Veneto","Belluno","15/01/1959",6,1,0,1
+"652366490CE0FEEA","Veneto","Belluno","15/03/1971",6,1,1,1
+"6CB38A215EA6836F","Emilia-Romagna","Modena","15/04/1962",6,1,1,1
+"8D4CA8636368401F","Veneto","Belluno","15/04/1965",6,1,0,1
+"B5020BF14CBE21FE","Veneto","Belluno","15/05/1968",6,1,0,1
+"DABCDD5A3692D758","Veneto","Belluno","15/05/1970",6,1,0,1
+"EB254E55F04FFE0A","Veneto","Belluno","15/07/1955",6,1,0,1
+"43901414848B3274","Veneto","Belluno","15/08/1954",6,1,0,1
+"77CE0E8B09AA8967","Veneto","Belluno","15/09/1955",6,1,1,1
+"22F01567939C1BC8","Sardegna","Sassari","15/10/1954",6,1,0,1
+"67EAE917D47252C5","Veneto","Belluno","15/12/1965",6,1,1,1
+"BCAD88D251C11632","Veneto","Belluno","15/12/1968",6,1,0,1
+"777B9E5E5D30089E","Veneto","Belluno","16/01/1953",6,1,1,1
+"CBE961A9C13AD843","Veneto","Belluno","16/03/1956",6,1,0,1
+"FD32ED3960CA776F","Friuli-Venezia Giulia","Udine","16/04/1967",6,1,0,1
+"C990C72FFDA0E0B1","Veneto","Belluno","16/04/1971",6,1,0,1
+"8E5E4459AE2DEF7A","Veneto","Belluno","16/05/1957",6,1,1,1
+"312EB28A37D9A1D8","Veneto","Belluno","16/05/1972",6,1,0,1
+"013A667370376AA9","Veneto","Belluno","16/07/1958",6,1,1,1
+"6A181C4D14DB04DF","Veneto","Belluno","16/09/1971",6,1,0,1
+"F5075464F199E973","Veneto","Belluno","16/10/1971",6,1,1,1
+"AD9BCFF7AB680C5A","Veneto","Belluno","16/12/1964",6,1,0,1
+"315445FF0ED38BA7","Veneto","Belluno","17/02/1958",6,1,0,1
+"C3A3307C357A3886","Friuli-Venezia Giulia","Udine","17/04/1961",6,1,1,1
+"974715F3621B52C0","Veneto","Belluno","17/05/1964",6,1,1,1
+"EB8473B0B24326C1","Veneto","Belluno","17/06/1968",6,1,1,1
+"4E03BCA170B757B5","Veneto","Belluno","17/09/1961",6,1,1,1
+"5B4E6EC5DCB3DD8A","Veneto","Belluno","17/11/1963",6,1,0,1
+"3FB42F6C7498439A","Veneto","Belluno","18/04/1958",6,1,0,1
+"5CB6DFC6C7776A05","Veneto","Belluno","18/05/1954",6,1,0,1
+"B4972230D599E9B4","Veneto","Belluno","18/05/1965",6,1,1,1
+"78F65B6E83E1AC0D","Veneto","Belluno","18/06/1965",6,1,0,1
+"1F08A4D7D0A9A734","Veneto","Belluno","18/07/1960",6,1,0,1
+"AED2C28214AF5227","Veneto","Belluno","18/08/1958",6,1,1,1
+"25C14C433E80978E","Veneto","Belluno","18/12/1955",6,1,0,1
+"A21E037996704E80","Veneto","Belluno","18/12/1966",6,1,0,1
+"8CD426BAABA3368B","Veneto","Belluno","18/12/1967",6,1,0,1
+"2688936452E99604","Basilicata","Matera","19/01/1971",6,1,0,1
+"240B5F5B5D0B8716","Puglia","Brindisi","19/02/1954",6,1,0,1
+"7B4EE27A0AF8245C","Veneto","Belluno","19/02/1958",6,1,1,1
+"F7C44C0181EAD3FB","Marche","Ascoli Piceno","19/03/1955",6,1,1,1
+"AD2B30C4258AFA32","Friuli-Venezia Giulia","Trieste","19/04/1957",6,1,0,1
+"461238D24BD725DA","Veneto","Belluno","19/04/1970",6,1,1,1
+"85F3B705416A6C67","Veneto","Belluno","19/06/1964",6,1,1,1
+"612D99AEFE8D141F","Veneto","Belluno","19/07/1961",6,1,0,1
+"04FD801996A7F2EE","Veneto","Belluno","19/08/1956",6,1,1,1
+"A405B702A8D79C99","Veneto","Belluno","19/09/1969",6,1,1,1
+"37B3683A482ED079","Veneto","Belluno","19/09/1972",6,1,0,1
+"F1CEA6C610BB9D52","Veneto","Belluno","19/10/1964",6,1,1,1
+"1CE0A08EE21659A9","Veneto","Belluno","20/02/1971",6,1,0,1
+"5BE0E615EA667068","Veneto","Belluno","20/04/1955",6,1,1,1
+"33208C0C7E892557","Veneto","Belluno","20/05/1963",6,1,0,1
+"BA3AD4D37E58E612","Veneto","Belluno","20/07/1960",6,1,0,1
+"5E3E42751CC068C7","Veneto","Belluno","20/07/1964",6,1,0,1
+"EC73EC607C066F7F","Veneto","Belluno","20/07/1970",6,1,1,1
+"70F8E3D028C068A2","Veneto","Belluno","20/08/1973",6,1,0,1
+"51FDE7EC209BBC5B","Veneto","Belluno","20/09/1956",6,1,0,1
+"B934EA5AEBD3B6F7","Friuli-Venezia Giulia","Udine","20/10/1955",6,1,1,1
+"65231CE8FEBFD290","Veneto","Belluno","20/12/1964",6,1,0,1
+"563BB792CF6953EF","Veneto","Venezia","21/04/1955",6,1,1,1
+"85E00B7FC627297C","Veneto","Belluno","21/08/1970",6,1,1,1
+"7BCDE0645242F70E","Veneto","Belluno","21/10/1958",6,1,0,1
+"60C8122102D8EBF7","Veneto","Belluno","21/10/1962",6,1,0,1
+"EA342FCFA2ED7CA6","Veneto","Belluno","21/11/1962",6,1,1,1
+"CE9E93BA2C98B214","Veneto","Belluno","22/02/1955",6,1,1,1
+"9506FBE24D1E952A","Veneto","Belluno","22/02/1956",6,1,1,1
+"0FA89E98CE81EF45","Veneto","Belluno","22/04/1973",6,1,1,1
+"30BDFDF8E4CEE340","Veneto","Belluno","22/06/1956",6,1,0,1
+"0104497DBAC4F8AC","Veneto","Belluno","22/06/1969",6,1,0,1
+"872E28EBCB644E24","Veneto","Belluno","22/06/1970",6,1,0,1
+"27AD8742962D2352","Veneto","Belluno","22/08/1963",6,1,1,1
+"342982C79D5FEE5D","Veneto","Belluno","22/10/1958",6,1,0,1
+"0E0EE74A69BD6B7B","Veneto","Belluno","22/10/1965",6,1,0,1
+"14936E0FA3081E3F","Veneto","Belluno","22/12/1968",6,1,0,1
+"AEA657835D985E92","Veneto","Belluno","23/04/1967",6,1,1,1
+"823A9049C35847DC","Veneto","Belluno","23/06/1968",6,1,1,1
+"22B497A139D170DC","Provincia di Bolzano","Bolzano-Bozen","23/07/1973",6,1,1,1
+"9AB85E07A6DB2B6A","Veneto","Belluno","23/10/1960",6,1,0,1
+"E8D3C4CA6919BCAD","Estero","Estero","23/10/1968",6,1,1,1
+"D4DD96368D35BAFA","Provincia di Bolzano","Bolzano-Bozen","23/11/1972",6,1,0,1
+"F4D8ED02FE178136","Veneto","Belluno","23/12/1960",6,1,1,1
+"089B3722919206FF","Veneto","Belluno","23/12/1963",6,1,0,1
+"B4AAF450BE4F942C","Veneto","Belluno","23/12/1964",6,1,0,1
+"538FCFC11C12DDC9","Veneto","Belluno","23/12/1972",6,1,1,1
+"501EEA5050EDD28A","Veneto","Belluno","24/01/1971",6,1,1,1
+"47F7ED08AC17EA02","Veneto","Belluno","24/03/1973",6,1,1,1
+"8EF9D82924A9A08F","Veneto","Belluno","24/04/1959",6,1,1,1
+"983C46408E70198A","Provincia di Trento","Trento","24/04/1971",6,1,0,1
+"EF5C430C68628B08","Veneto","Belluno","24/06/1970",6,1,0,1
+"691E568D0A1CEBC9","Veneto","Belluno","24/07/1955",6,1,1,1
+"4A138EB5DC4DAB44","Veneto","Belluno","24/07/1957",6,1,0,1
+"0DDEE0739AD06A11","Veneto","Belluno","24/07/1968",6,1,0,1
+"BF62E9CE0E74FCC7","Veneto","Belluno","24/10/1958",6,1,1,1
+"0E56CA0AB6617C09","Lazio","Roma","24/10/1963",6,1,1,1
+"648EC3F57710189E","Veneto","Belluno","24/11/1961",6,1,0,1
+"B0A24BE81ED5DEDB","Friuli-Venezia Giulia","Udine","24/11/1971",6,1,0,1
+"158CAF4BF2A1C0D2","Veneto","Belluno","24/12/1960",6,1,0,1
+"634B346925DEE23C","Veneto","Belluno","25/02/1955",6,1,0,1
+"A8C89425BABC6840","Veneto","Belluno","25/02/1964",6,1,1,1
+"8BBC3179FC075092","Veneto","Belluno","25/04/1966",6,1,0,1
+"BD2BBBFFEEFB39A6","Sardegna","Cagliari","25/05/1964",6,1,0,1
+"F96630D7354845C7","Veneto","Belluno","25/07/1965",6,1,0,1
+"86C6D1C79A12C464","Veneto","Belluno","25/12/1957",6,1,0,1
+"ECE9BC1C4E3EF082","Veneto","Belluno","26/02/1957",6,1,1,1
+"5E761E7E34FA6D3C","Veneto","Belluno","26/02/1966",6,1,0,1
+"5A50D3D93E522AF8","Veneto","Belluno","26/04/1964",6,1,0,1
+"C45055E17B1BEBA9","Veneto","Belluno","26/04/1970",6,1,0,1
+"67881B9D848530B1","Veneto","Belluno","26/05/1959",6,1,1,1
+"E5EC03BFE5FDB841","Veneto","Belluno","26/05/1966",6,1,0,1
+"4693623C5170405F","Veneto","Belluno","26/06/1961",6,1,1,1
+"B72F2D1CF29294FE","Veneto","Belluno","26/07/1957",6,1,1,1
+"C2FDEAC76A4EAD75","Veneto","Belluno","26/08/1968",6,1,0,1
+"633859771E06F5EA","Veneto","Belluno","26/09/1954",6,1,1,1
+"5A05DA1AA6766343","Campania","Napoli","26/12/1957",6,1,1,1
+"51E96351E9CE1844","Veneto","Belluno","26/12/1972",6,1,1,1
+"4A825AA41E172E6E","Veneto","Belluno","27/03/1961",6,1,1,1
+"921B706BD365BDDF","Veneto","Belluno","27/04/1964",6,1,1,1
+"1852C95E23B92D6E","Veneto","Belluno","27/05/1963",6,1,1,1
+"92E36473072233F8","Veneto","Belluno","27/05/1966",6,1,0,1
+"4AA455B1C1555FCF","Veneto","Belluno","27/06/1969",6,1,1,1
+"A78A21E56EAF1E0A","Veneto","Belluno","27/09/1962",6,1,1,1
+"96088B53D1F87C92","Veneto","Belluno","28/02/1969",6,1,1,1
+"C5D16020649F1714","Veneto","Belluno","28/03/1961",6,1,0,1
+"BCBA878201318203","Veneto","Belluno","28/03/1968",6,1,0,1
+"3F7B52994D717BD3","Provincia di Trento","Trento","28/04/1959",6,1,0,1
+"C3169CE77AAB9995","Lombardia","Mantova","28/04/1962",6,1,1,1
+"D501F74EEBCD77A4","Veneto","Belluno","28/04/1967",6,1,0,1
+"0D4F2AC241DA9FA2","Veneto","Belluno","28/06/1955",6,1,0,1
+"0E149FA79E23CC8A","Calabria","Cosenza","28/06/1968",6,1,1,1
+"719058143EEC4620","Veneto","Belluno","28/07/1966",6,1,1,1
+"751A32E534F0F34C","Veneto","Belluno","28/08/1958",6,1,0,1
+"D81F9EA415336668","Veneto","Belluno","28/09/1960",6,1,0,1
+"344C6C271D09A395","Veneto","Belluno","28/11/1967",6,1,1,1
+"E092214227C98C87","Veneto","Belluno","29/01/1959",6,1,0,1
+"57356C079ECE6676","Veneto","Belluno","29/03/1956",6,1,0,1
+"4FB171091C254997","Friuli-Venezia Giulia","Pordenone","29/03/1971",6,1,0,1
+"79056EB4883D38A5","Friuli-Venezia Giulia","Pordenone","29/05/1960",6,1,0,1
+"1CD3BD88BE78BEC4","Veneto","Belluno","29/06/1964",6,1,0,1
+"915DE6258E1D1D92","Veneto","Belluno","29/06/1971",6,1,0,1
+"BA08D2B76DC4E734","Veneto","Belluno","29/07/1953",6,1,0,1
+"6844351F995C4D8F","Veneto","Belluno","29/07/1954",6,1,1,1
+"84BE4DADAE65DF9C","Veneto","Belluno","29/08/1958",6,1,1,1
+"11F55376694AFA43","Veneto","Belluno","29/08/1960",6,1,0,1
+"31257161EB3AFEDD","Veneto","Belluno","29/08/1973",6,1,0,1
+"FB594A8EAF0672DE","Veneto","Belluno","29/10/1967",6,1,1,1
+"4D3262A8B61D4ADD","Veneto","Belluno","29/10/1973",6,1,1,1
+"102F589B720A44BD","Veneto","Belluno","30/03/1953",6,1,0,1
+"F224FE34651C0A49","Veneto","Belluno","30/03/1960",6,1,1,1
+"BDBC8FD41729155A","Veneto","Belluno","30/03/1966",6,1,0,1
+"A99ABD5D62409A2D","Veneto","Belluno","30/04/1960",6,1,0,1
+"461CCF468FD60DEC","Friuli-Venezia Giulia","Udine","30/04/1960",6,1,1,1
+"FB1BF2890FDC566B","Veneto","Belluno","30/10/1973",6,1,0,1
+"B5483AC452E619B5","Emilia-Romagna","Ravenna","30/11/1961",6,1,1,1
+"17A630FE6E0EA35D","Provincia di Trento","Trento","30/12/1962",6,1,0,1
+"4AB699CD71D8E48F","Veneto","Belluno","31/01/1957",6,1,0,1
+"42EB9B8D209B5849","Veneto","Belluno","31/01/1963",6,1,0,1
+"14852BEC9F1FD381","Veneto","Belluno","31/03/1962",6,1,0,1
+"44BE6D726203ADD8","Toscana","Pistoia","31/03/1962",6,1,0,1
+"6D3709E4C880F4B2","Veneto","Belluno","31/05/1953",6,1,0,1
+"63EF07567C14CFA3","Veneto","Belluno","31/10/1961",6,1,0,1
+"62B43A6F541BBDD9","Veneto","Belluno","31/10/1964",6,1,1,1
+"BBEC9FB453206E29","Veneto","Belluno","31/10/1968",6,1,0,1
+"A79DDE219516CC91","Veneto","Belluno","31/12/1961",6,1,1,1
+"41C1348496C67B05","Veneto","Belluno","01/01/1947",7,1,0,1
+"CF751F107E15E48E","Veneto","Belluno","01/03/1944",7,1,1,1
+"D5F4763867045A73","Veneto","Belluno","01/03/1947",7,1,1,1
+"4851EDBA929A0C33","Veneto","Belluno","01/04/1945",7,1,1,1
+"83BB5D4B03520B6B","Veneto","Belluno","01/04/1948",7,1,0,1
+"E6AA9926C1BE524E","Veneto","Belluno","01/05/1947",7,1,0,1
+"4839298C81B855BC","Veneto","Belluno","01/06/1951",7,1,1,1
+"16C062AF1A1447C7","Veneto","Belluno","01/09/1948",7,1,0,1
+"3C12606C5D8434FE","Lombardia","Pavia","01/11/1945",7,1,1,1
+"FA93936B546F5724","Friuli-Venezia Giulia","Gorizia","02/01/1946",7,1,1,1
+"8B721EB5A81B05E2","Campania","Caserta","02/02/1952",7,1,1,1
+"75288751C9FA1408","Veneto","Belluno","02/03/1949",7,1,0,1
+"60EBAAE6F4993503","Abruzzo","Chieti","02/04/1945",7,1,1,1
+"922B1C4F63936E96","Lombardia","Milano","02/07/1949",7,1,1,1
+"6BE92E10B21699B4","Veneto","Belluno","02/12/1944",7,1,1,1
+"90A4F2FD9C759E92","Veneto","Belluno","02/12/1946",7,1,0,1
+"89D34DB3AD4A1C37","Veneto","Belluno","02/12/1951",7,1,1,1
+"250B03515D1A1E53","Provincia di Trento","Trento","03/02/1951",7,1,0,1
+"0523E29C2DAA64D1","Veneto","Belluno","03/02/1953",7,1,1,1
+"F5161B1FFA61A9A2","Veneto","Belluno","03/09/1950",7,1,1,1
+"D7B76A0754E01376","Veneto","Belluno","03/12/1947",7,1,1,1
+"3073372D7B606BA4","Friuli-Venezia Giulia","Udine","04/01/1952",7,1,0,1
+"D3FBD1BC19149C09","Veneto","Belluno","04/02/1949",7,1,0,1
+"F38497AE26137CA3","Veneto","Belluno","04/02/1949",7,1,1,1
+"00B744D276284DC5","Veneto","Belluno","04/04/1949",7,1,0,1
+"A9662984F37A8A91","Veneto","Belluno","04/06/1947",7,1,1,1
+"06A3C386FDE706A4","Veneto","Belluno","04/11/1944",7,1,0,1
+"88A59713AC7F7A55","Veneto","Belluno","04/12/1944",7,1,0,1
+"0705D57142458426","Veneto","Belluno","05/01/1946",7,1,1,1
+"E0D4215E8602205A","Veneto","Belluno","05/02/1951",7,1,0,1
+"DCFC41EA94D633F6","Veneto","Belluno","05/04/1947",7,1,0,1
+"C9BA517AC28B250C","Provincia di Trento","Trento","05/08/1948",7,1,0,1
+"ADEFCC9338FF8734","Veneto","Belluno","06/01/1949",7,1,0,1
+"02A0EB5F418A7C5A","Veneto","Belluno","06/02/1947",7,1,1,1
+"7FAA50F24C312F48","Veneto","Belluno","06/04/1949",7,1,1,1
+"81A2364ACB35BDF0","Veneto","Belluno","06/04/1951",7,1,1,1
+"73AC19899CE5C2DB","Puglia","Lecce","06/11/1948",7,1,0,1
+"66D9BABD50ACF703","Veneto","Belluno","06/11/1951",7,1,0,1
+"4E69473F8ADF2660","Provincia di Trento","Trento","07/02/1944",7,1,1,1
+"A9E3F5E5A0FC9722","Veneto","Belluno","07/03/1951",7,1,0,1
+"C719BC8A0BE8803C","Veneto","Belluno","07/06/1950",7,1,0,1
+"0BB00D30EB5C9845","Veneto","Belluno","07/07/1943",7,1,0,1
+"A52C27B941E3646D","Veneto","Belluno","07/09/1946",7,1,0,1
+"7342C32C30E5AB4F","Veneto","Belluno","07/12/1950",7,1,1,1
+"9523B29F194436F6","Veneto","Belluno","08/01/1946",7,1,0,1
+"344A52A11362C1A6","Veneto","Belluno","08/03/1948",7,1,0,1
+"C03BE537C4ADBCCB","Veneto","Belluno","08/03/1949",7,1,0,1
+"3E1FDBB0209CBEC4","Lombardia","Mantova","08/05/1949",7,1,0,1
+"BB7E3730007D25E6","Veneto","Belluno","08/08/1944",7,1,0,1
+"1E33634F902A2D12","Veneto","Belluno","08/10/1944",7,1,0,1
+"F531A6E514096EF4","Veneto","Belluno","08/10/1946",7,1,0,1
+"B981D9DFD4B9FEF1","Veneto","Belluno","08/10/1949",7,1,1,1
+"23C5349A93E0EE04","Veneto","Belluno","08/10/1950",7,1,0,1
+"CD4F34E00F5C2E44","Veneto","Belluno","08/12/1950",7,1,0,1
+"50BD628AA3E40623","Veneto","Belluno","09/01/1952",7,1,1,1
+"5C22EC6777617BB0","Veneto","Belluno","09/01/1952",7,1,0,1
+"C9E542390CB01757","Veneto","Belluno","09/03/1953",7,1,0,1
+"8164C942F263B0C2","Veneto","Belluno","09/04/1944",7,1,0,1
+"9651B600A79A2A40","Veneto","Belluno","09/06/1946",7,1,0,1
+"FBF557CAB9449338","Veneto","Belluno","09/07/1946",7,1,1,1
+"BFC2971A9BF56CE2","Veneto","Belluno","09/07/1947",7,1,0,1
+"6E7DFA93CA1AB556","Veneto","Belluno","09/08/1952",7,1,0,1
+"2270E602D90CAE87","Veneto","Belluno","09/11/1944",7,1,1,1
+"DF91A8628DE88CB7","Veneto","Belluno","09/11/1950",7,1,1,1
+"BD957DDF89568BF0","Veneto","Belluno","10/03/1946",7,1,0,1
+"A64AAFE9BF3365A9","Provincia di Trento","Trento","10/03/1949",7,1,1,1
+"D9197CB1FDAF7BC6","Veneto","Belluno","10/05/1953",7,1,0,1
+"2516E428FB92921B","Veneto","Belluno","10/07/1945",7,1,1,1
+"0FDFCAED2FAC86C6","Veneto","Belluno","10/07/1947",7,1,0,1
+"6F17C2C57D0B1115","Veneto","Belluno","10/07/1948",7,1,1,1
+"E12259D6E64B540E","Veneto","Belluno","10/08/1948",7,1,0,1
+"9468D3E55D8CC1DB","Veneto","Belluno","10/09/1946",7,1,0,1
+"572F19944CF94385","Friuli-Venezia Giulia","Udine","10/12/1948",7,1,1,1
+"E4114C1D317DCD03","Veneto","Belluno","11/02/1950",7,1,1,1
+"02ABFB8C38613F4F","Veneto","Belluno","11/06/1952",7,1,0,1
+"0F5DB37689FF3690","Veneto","Belluno","11/10/1948",7,1,1,1
+"C84E7FCBE1C9ED07","Veneto","Belluno","11/10/1952",7,1,0,1
+"B9D82DF309A8D362","Veneto","Belluno","11/11/1945",7,1,0,1
+"71560A3A32E98CFB","Veneto","Belluno","11/11/1949",7,1,1,1
+"E82CB2B878089751","Veneto","Belluno","11/12/1948",7,1,0,1
+"6A8FE6B7E23D00B5","Veneto","Belluno","12/03/1951",7,1,1,1
+"104D285C02A7D62D","Emilia-Romagna","Modena","12/11/1951",7,1,1,1
+"6D49A04E22D9D15E","Provincia di Trento","Trento","12/11/1952",7,1,0,1
+"552BC550265EB6F5","Veneto","Belluno","13/02/1952",7,1,0,1
+"E486BE9C1431A856","Lombardia","Varese","13/03/1944",7,1,0,1
+"9B3B22916057FCDA","Provincia di Trento","Trento","13/04/1948",7,1,1,1
+"15D36D2D2315E4C8","Veneto","Belluno","13/04/1950",7,1,1,1
+"68E998F38C67FADE","Veneto","Belluno","13/07/1951",7,1,0,1
+"DB455870A08DA27B","Veneto","Belluno","13/09/1944",7,1,0,1
+"0213E99D062ECFE8","Veneto","Belluno","13/11/1951",7,1,0,1
+"1E4CE4FB6AFB5FF1","Toscana","Livorno","14/01/1948",7,1,1,1
+"61419F13F1CB2864","Veneto","Belluno","14/01/1953",7,1,0,1
+"94ECAA1A82396BA8","Provincia di Trento","Trento","14/02/1946",7,1,1,1
+"01138E829A32C986","Veneto","Belluno","14/03/1952",7,1,1,1
+"1407429E6F8B1130","Veneto","Belluno","14/08/1953",7,1,1,1
+"DE5E50480748874D","Veneto","Belluno","15/01/1946",7,1,0,1
+"1F60C1249D915B84","Veneto","Belluno","15/01/1948",7,1,0,1
+"EF2BE6D1F2926E2C","Veneto","Belluno","15/03/1949",7,1,0,1
+"9FA7A649F9D443DF","Veneto","Belluno","15/04/1950",7,1,0,1
+"A68078DD71E620E9","Veneto","Belluno","15/05/1944",7,1,0,1
+"3C50497A477C8E08","Veneto","Belluno","15/05/1947",7,1,0,1
+"2553BA6134B89B4D","Veneto","Belluno","15/10/1950",7,1,0,1
+"978BB75FCB2A060D","Veneto","Belluno","16/05/1950",7,1,0,1
+"09289CA0431DC0C0","Friuli-Venezia Giulia","Udine","16/05/1952",7,1,1,1
+"B7BDE30B83D89421","Provincia di Trento","Trento","16/07/1945",7,1,1,1
+"B5868FBE259CDEB5","Veneto","Belluno","16/07/1952",7,1,0,1
+"59EAA78B8B03B1D5","Veneto","Belluno","16/08/1948",7,1,1,1
+"635BC3AFF8A7491C","Veneto","Belluno","16/10/1944",7,1,0,1
+"4AEA96C2FF3081DD","Veneto","Belluno","17/04/1946",7,1,0,1
+"92E32C56043DA2C7","Veneto","Belluno","17/08/1953",7,1,0,1
+"F36D375D0F3C9159","Veneto","Belluno","17/10/1948",7,1,0,1
+"BE25D2B91663D900","Veneto","Belluno","17/11/1949",7,1,0,1
+"FEC8270B01D60D22","Veneto","Belluno","17/12/1946",7,1,0,1
+"3EEA52964C40BFD7","Provincia di Bolzano","Bolzano-Bozen","18/01/1944",7,1,0,1
+"A8C77B69C6CC3128","Sicilia","Caltanissetta","18/01/1950",7,1,0,1
+"3552EE60F7ADA53B","Toscana","Firenze","18/03/1952",7,1,1,1
+"B67D6321735EAF57","Veneto","Belluno","18/06/1950",7,1,0,1
+"9DC9CED6A9ABC4D8","Friuli-Venezia Giulia","Udine","18/06/1950",7,1,1,1
+"2F4F96623E2541BC","Veneto","Belluno","18/07/1944",7,1,1,1
+"B78E414B9E25492A","Veneto","Belluno","18/07/1949",7,1,1,1
+"FF61C0AE20E898D3","Veneto","Belluno","18/08/1947",7,1,0,1
+"BDD803A299467DF7","Veneto","Belluno","18/09/1949",7,1,1,1
+"2C785724E20384B6","Veneto","Belluno","18/09/1952",7,1,0,1
+"FCC2F0B9DB09112C","Veneto","Belluno","18/09/1952",7,1,1,1
+"728D8DCA075E3713","Provincia di Bolzano","Bolzano-Bozen","19/01/1947",7,1,0,1
+"D4B8F9E82461300D","Veneto","Belluno","19/01/1949",7,1,0,1
+"BD9B51B0992E32E6","Veneto","Belluno","19/02/1952",7,1,0,1
+"611C3CB6C25A08F0","Veneto","Belluno","19/04/1946",7,1,1,1
+"A354F7154C0C0855","Veneto","Belluno","19/07/1945",7,1,0,1
+"BCE650C22E5117C0","Veneto","Belluno","19/07/1949",7,1,0,1
+"0551E1E8DB41766D","Veneto","Belluno","19/07/1952",7,1,1,1
+"33A7E185DC636205","Puglia","Brindisi","19/08/1944",7,1,1,1
+"3070160173A66CDD","Veneto","Belluno","20/01/1952",7,1,0,1
+"4A54ECC5DC3BC17E","Veneto","Belluno","20/02/1947",7,1,1,1
+"273A9DB5D77158C5","Sicilia","Palermo","20/08/1947",7,1,1,1
+"3BA9487081814FB4","Veneto","Belluno","20/09/1947",7,1,1,1
+"4B7990E90F52FE47","Veneto","Belluno","21/01/1944",7,1,0,1
+"E5BD41D4C1B7C1A8","Veneto","Belluno","21/01/1949",7,1,0,1
+"8FE166FADA704BD7","Veneto","Belluno","21/02/1946",7,1,0,1
+"AE448C952606D8D9","Toscana","Firenze","21/04/1946",7,1,0,1
+"831B95259ABBDBFF","Veneto","Belluno","21/07/1951",7,1,1,1
+"1D91CF6CA5753AE3","Veneto","Belluno","21/09/1948",7,1,0,1
+"6EE71632CAB8BFFA","Veneto","Belluno","22/03/1949",7,1,0,1
+"FCABB266B1E9CEC8","Friuli-Venezia Giulia","Udine","22/03/1951",7,1,1,1
+"A48027644C10C960","Veneto","Belluno","22/11/1947",7,1,1,1
+"F69E4BC66D2642D8","Veneto","Belluno","23/01/1945",7,1,0,1
+"E08F0574BD457E87","Veneto","Belluno","23/01/1949",7,1,0,1
+"076755691C52E0CA","Veneto","Belluno","23/02/1952",7,1,1,1
+"FC9AE81F5CF9947B","Veneto","Belluno","23/07/1944",7,1,1,1
+"4063A396B38BE6AA","Veneto","Belluno","23/08/1946",7,1,0,1
+"A89D48AAD4245CEA","Veneto","Belluno","23/08/1949",7,1,0,1
+"9E392D1680F5C760","Veneto","Belluno","23/12/1948",7,1,1,1
+"683A50CAA13183D5","Veneto","Belluno","24/01/1946",7,1,1,1
+"926691ACC5309ACC","Veneto","Belluno","24/04/1949",7,1,0,1
+"A7981FA7BB79F1F4","Veneto","Belluno","24/05/1944",7,1,0,1
+"42EF8E2387A877B3","Veneto","Belluno","24/09/1946",7,1,0,1
+"A6ADF135CE976FC4","Veneto","Belluno","24/11/1948",7,1,0,1
+"0F1F2968E903AED8","Veneto","Belluno","25/01/1951",7,1,1,1
+"FA080C2EFD4963C5","Veneto","Belluno","25/02/1951",7,1,0,1
+"7712F8ABC047DECE","Veneto","Belluno","25/08/1952",7,1,0,1
+"15A16480398FD255","Veneto","Belluno","25/12/1952",7,1,1,1
+"C7A097CEF6217670","Veneto","Belluno","26/01/1949",7,1,0,1
+"44B650D2141A7FEB","Veneto","Belluno","26/02/1947",7,1,1,1
+"30CD264439EF01D9","Veneto","Belluno","26/03/1946",7,1,1,1
+"499ABD589465D2F0","Veneto","Belluno","26/03/1949",7,1,1,1
+"F9DBECA3E0FDFD30","Piemonte","Torino","26/05/1944",7,1,1,1
+"490055E40E1B7852","Veneto","Belluno","26/09/1945",7,1,0,1
+"7122BB66241E07D9","Veneto","Belluno","26/09/1946",7,1,1,1
+"702DAEF235E82C95","Veneto","Belluno","26/09/1947",7,1,1,1
+"5ADE8476BF0327E3","Veneto","Belluno","26/11/1944",7,1,0,1
+"295DFA35098079CD","Veneto","Belluno","27/02/1950",7,1,0,1
+"CDE8D43B0749C409","Veneto","Belluno","27/07/1945",7,1,1,1
+"57BE4BA4CD14E1F4","Veneto","Belluno","27/08/1947",7,1,1,1
+"25F71C84805BF027","Veneto","Belluno","27/09/1952",7,1,1,1
+"0912E97403CC6FAE","Veneto","Belluno","28/01/1946",7,1,0,1
+"802A111AEB489A8D","Veneto","Belluno","28/01/1949",7,1,1,1
+"6A3BDBBD5FE9E24B","Veneto","Belluno","28/02/1951",7,1,0,1
+"3DEC1B8823293D97","Veneto","Belluno","28/05/1946",7,1,0,1
+"5DF90FF06115FDF5","Veneto","Belluno","28/05/1946",7,1,0,1
+"C0686CD8B35DFFDA","Veneto","Belluno","28/07/1947",7,1,0,1
+"54A1560A918D4321","Veneto","Belluno","28/09/1944",7,1,0,1
+"EA528A34E515E652","Veneto","Belluno","28/10/1952",7,1,0,1
+"0E8449C22220EBBE","Veneto","Belluno","29/03/1948",7,1,0,1
+"4057393EF8053653","Veneto","Belluno","29/05/1946",7,1,0,1
+"48897A518B7CF4A7","Veneto","Belluno","29/05/1953",7,1,1,1
+"9BA63EFA44C9CBB4","Provincia di Trento","Trento","29/06/1948",7,1,0,1
+"B2E65CA63BF61D95","Veneto","Belluno","29/08/1950",7,1,0,1
+"17D69788F67EAB6C","Veneto","Belluno","29/10/1946",7,1,0,1
+"7BF1F0A0B0756EF1","Veneto","Belluno","29/11/1947",7,1,0,1
+"D26029FFB1864CB2","Veneto","Treviso","30/03/1946",7,1,0,1
+"18B9B78A490AE37C","Veneto","Belluno","30/04/1947",7,1,1,1
+"A12CC941E2881B9F","Veneto","Belluno","30/09/1944",7,1,0,1
+"9DCED5D936858FBA","Veneto","Belluno","30/10/1944",7,1,0,1
+"D608DC3B9B1BF475","Veneto","Belluno","30/11/1950",7,1,0,1
+"FE76413A560E9900","Veneto","Belluno","30/12/1945",7,1,0,1
+"560D5FEC3CF33425","Veneto","Belluno","31/05/1952",7,1,0,1
+"E01F8C78EA79B0D1","Veneto","Belluno","31/07/1947",7,1,0,1
+"198474A61B706011","Veneto","Belluno","31/10/1950",7,1,1,1
+"314F89B4CDA77BE0","Veneto","Belluno","01/02/1937",8,1,0,1
+"549126944F7FB333","Veneto","Belluno","01/02/1941",8,1,0,1
+"EE9F6A2B5EFC4D21","Veneto","Belluno","01/03/1940",8,1,1,1
+"98EF9F5289D8E7C2","Veneto","Belluno","01/05/1940",8,1,1,1
+"A9F25F053471F5EA","Veneto","Belluno","01/07/1935",8,1,0,1
+"E2456FD755A2E87B","Veneto","Belluno","01/08/1936",8,1,1,1
+"DEEE30066B87B2F5","Lombardia","Como","01/08/1942",8,1,1,1
+"5A9DDB4B450D6E58","Veneto","Belluno","01/11/1937",8,1,0,1
+"047D7B829D0FA82F","Veneto","Belluno","02/08/1940",8,1,0,1
+"364F06F92B97005C","Veneto","Belluno","02/10/1936",8,1,1,1
+"32291DEBDC9B4608","Veneto","Belluno","03/01/1942",8,1,1,1
+"B4D4D2DA321DAB23","Veneto","Belluno","03/04/1937",8,1,0,1
+"AAC65CD0A916B04D","Veneto","Belluno","03/04/1942",8,1,1,1
+"6AB1CBD560B7138F","Lombardia","Lodi","03/05/1940",8,1,1,1
+"67DF65BD2FC5A461","Veneto","Belluno","03/08/1940",8,1,0,1
+"6B57AC97D6B73313","Veneto","Belluno","03/09/1939",8,1,0,1
+"86642DB2984B7659","Lombardia","Lecco","04/03/1935",8,1,1,1
+"D4B1E70473980F2C","Provincia di Bolzano","Bolzano-Bozen","04/05/1943",8,1,0,1
+"FF233695ECD44BA6","Veneto","Padova","04/08/1937",8,1,0,1
+"B8C4F3436675B2DB","Veneto","Belluno","04/10/1942",8,1,0,1
+"A3497D465DD46AAB","Veneto","Belluno","05/01/1943",8,1,0,1
+"EF12FCA8ACB3BC6F","Veneto","Belluno","05/02/1939",8,1,1,1
+"1AB31FE0E93EBF06","Veneto","Belluno","05/10/1943",8,1,1,1
+"D2A2700E894BEBFC","Veneto","Belluno","06/02/1943",8,1,0,1
+"FDBD8117FDF15711","Veneto","Belluno","06/05/1940",8,1,1,1
+"E670D5621CAE291B","Lazio","Roma","06/08/1940",8,1,0,1
+"1AB2C40CA1DEE5DB","Veneto","Belluno","06/08/1941",8,1,1,1
+"E1B53EB8018D7127","Veneto","Belluno","06/09/1934",8,1,0,1
+"34BDBC5B3DAC497E","Veneto","Belluno","06/12/1939",8,1,0,1
+"B8ECDAB91BDC7BD1","Veneto","Belluno","06/12/1939",8,1,0,1
+"8C25D55595DCC3CC","Veneto","Belluno","07/01/1935",8,1,0,1
+"79D4388FAE417BE1","Veneto","Belluno","07/04/1936",8,1,0,1
+"0CEC9C68E7F9D56C","Veneto","Belluno","07/09/1937",8,1,1,1
+"650CA137F95616F7","Veneto","Belluno","08/03/1944",8,1,1,1
+"780A2A09493567EF","Veneto","Belluno","08/06/1940",8,1,1,1
+"09F1A7437D08176A","Veneto","Belluno","08/06/1941",8,1,1,1
+"8BFC4F9FD79BE949","Veneto","Belluno","08/10/1939",8,1,0,1
+"1D0735FF1C89720E","Friuli-Venezia Giulia","Udine","09/02/1942",8,1,0,1
+"C88C300FBED29FD6","Friuli-Venezia Giulia","Pordenone","09/04/1938",8,1,0,1
+"9D2D0B2E7CD303F2","Veneto","Belluno","09/08/1937",8,1,0,1
+"33FA3C867CCA87D5","Veneto","Belluno","10/03/1937",8,1,0,1
+"65A78B4B1E30E8C5","Campania","Napoli","10/06/1940",8,1,0,1
+"D07CA46C5562351E","Veneto","Belluno","10/07/1942",8,1,0,1
+"08DE5F091D4669D6","Veneto","Belluno","10/09/1942",8,1,0,1
+"689F1C127650EE26","Veneto","Belluno","10/11/1939",8,1,1,1
+"2580B7F781C12561","Veneto","Belluno","11/09/1941",8,1,1,1
+"741AA7B8046BB56D","Veneto","Belluno","11/10/1936",8,1,0,1
+"66237E7834566285","Veneto","Belluno","11/11/1936",8,1,0,1
+"42F34F0F12B48B6C","Veneto","Belluno","11/12/1942",8,1,1,1
+"0703D49477DE810C","Veneto","Belluno","12/01/1938",8,1,1,1
+"C035C7169E30570F","Veneto","Belluno","12/01/1938",8,1,1,1
+"A376D4C9137B7E4E","Veneto","Belluno","12/01/1939",8,1,0,1
+"A5F0ACC94BC1B3BD","Veneto","Belluno","12/11/1934",8,1,0,1
+"62ADA9576D1DA3B5","Veneto","Belluno","13/04/1941",8,1,1,1
+"62D79089318A4C2C","Veneto","Belluno","13/04/1944",8,1,1,1
+"17894B5E051CFFDC","Veneto","Belluno","13/05/1942",8,1,0,1
+"BC76EB308579438E","Veneto","Belluno","13/06/1936",8,1,0,1
+"31A45AE817B18037","Veneto","Belluno","13/06/1943",8,1,0,1
+"3CD8AAC80B8E88C5","Veneto","Belluno","13/08/1934",8,1,0,1
+"F2EAFE633A3B5901","Friuli-Venezia Giulia","Trieste","13/10/1940",8,1,0,1
+"D192B6D55441D9EE","Veneto","Belluno","13/10/1941",8,1,0,1
+"7E113AC6F286C6A8","Veneto","Belluno","14/02/1938",8,1,0,1
+"168ED5D92E0EF2C2","Veneto","Belluno","14/03/1941",8,1,0,1
+"2A098A090CDE091C","Veneto","Belluno","14/05/1935",8,1,1,1
+"F07FBD30677F0E76","Veneto","Belluno","14/07/1941",8,1,0,1
+"2B84F72890FAF239","Veneto","Belluno","14/09/1939",8,1,0,1
+"6EF26C06F3AA7139","Veneto","Belluno","14/09/1939",8,1,0,1
+"B94796101B7DFBD0","Veneto","Belluno","14/10/1940",8,1,1,1
+"E87FC854B637AB23","Veneto","Belluno","15/01/1937",8,1,1,1
+"84553F2962525141","Veneto","Belluno","15/02/1942",8,1,1,1
+"398DE620E11E5768","Veneto","Belluno","15/05/1942",8,1,0,1
+"034BF65A1F4A1B17","Veneto","Belluno","15/09/1935",8,1,0,1
+"7A468D158A157D20","Veneto","Belluno","15/09/1940",8,1,1,1
+"3A57C2978755C473","Veneto","Belluno","15/11/1938",8,1,1,1
+"912B22A310A56777","Veneto","Belluno","15/11/1943",8,1,0,1
+"CD571FF361F881DA","Veneto","Belluno","15/12/1937",8,1,0,1
+"F4BEE56EE55E18E2","Veneto","Belluno","16/02/1937",8,1,1,1
+"7D272367F144A64E","Veneto","Belluno","16/10/1943",8,1,1,1
+"30CC97FF6DB47B41","Veneto","Belluno","16/12/1936",8,1,1,1
+"48F87BDDCDBB5974","Veneto","Belluno","17/01/1943",8,1,1,1
+"4868B44F3C1419D5","Veneto","Belluno","17/02/1938",8,1,1,1
+"D848E7A544A2C566","Veneto","Belluno","17/03/1935",8,1,0,1
+"0AB9142B761D91CE","Veneto","Belluno","17/04/1937",8,1,0,1
+"E9A89EA76433AFA0","Veneto","Belluno","17/06/1936",8,1,0,1
+"D16A30615B92D455","Veneto","Belluno","17/10/1941",8,1,1,1
+"D3EFCD00933A8D92","Veneto","Belluno","17/10/1941",8,1,0,1
+"370376B6582F4AA3","Veneto","Belluno","17/10/1943",8,1,1,1
+"8CBA1ADFE57B9354","Veneto","Belluno","17/11/1936",8,1,0,1
+"C338BD4792929FCC","Veneto","Belluno","18/02/1939",8,1,1,1
+"E0398A9375303BD3","Veneto","Belluno","18/03/1937",8,1,1,1
+"B0FBC5D5F2EA0D14","Veneto","Belluno","18/05/1940",8,1,0,1
+"750595FD5EDC2653","Veneto","Belluno","18/12/1937",8,1,0,1
+"1A76B4E3DBBC226D","Veneto","Belluno","18/12/1939",8,1,0,1
+"C6991733AD7861BB","Toscana","Firenze","19/05/1938",8,1,1,1
+"53F3F70EC3DA6690","Veneto","Belluno","19/06/1936",8,1,0,1
+"8C9BAD2AC1CCA052","Veneto","Belluno","19/07/1943",8,1,1,1
+"73352DCC8896A790","Veneto","Belluno","20/05/1942",8,1,0,1
+"659E50AEC56A198B","Veneto","Belluno","21/01/1938",8,1,1,1
+"C21CE2E8989D5727","Lazio","Roma","21/02/1935",8,1,1,1
+"64DA6096FB70C58E","Veneto","Belluno","21/02/1943",8,1,0,1
+"AC33AB08F77A2A4B","Veneto","Belluno","21/03/1940",8,1,0,1
+"55CE688B96B3AE42","Veneto","Belluno","21/09/1942",8,1,0,1
+"DB481BC05FDEBBCF","Veneto","Belluno","21/11/1940",8,1,1,1
+"0B9AB9EBAD398BFE","Veneto","Belluno","22/02/1937",8,1,0,1
+"EA5721A42B6F21E9","Veneto","Belluno","22/06/1938",8,1,1,1
+"4BD605231DD6A60F","Veneto","Belluno","22/08/1941",8,1,1,1
+"8A620CB162D7C129","Veneto","Belluno","22/10/1937",8,1,1,1
+"DF6856A7FDEE1FE4","Veneto","Belluno","22/10/1937",8,1,1,1
+"67E27A4ABB4A4E12","Veneto","Belluno","22/11/1939",8,1,0,1
+"CBE39E63C339CCC8","Veneto","Belluno","23/01/1943",8,1,0,1
+"544F025ABDC5A8C3","Veneto","Belluno","23/06/1937",8,1,0,1
+"50FE03C93B793353","Veneto","Belluno","23/06/1939",8,1,1,1
+"15444892B76F71D1","Lombardia","Lecco","23/06/1940",8,1,1,1
+"3C606CEB04114EB2","Estero","Estero","23/08/1939",8,1,0,1
+"B076180D98F4B0C2","Veneto","Belluno","24/01/1939",8,1,0,1
+"F6C022192043A36F","Veneto","Belluno","24/10/1942",8,1,0,1
+"EC29CB194F2B736A","Veneto","Belluno","25/02/1944",8,1,1,1
+"C7DFFCAC2695E0D3","Piemonte","Torino","25/05/1936",8,1,1,1
+"10647497B8AA4524","Veneto","Belluno","25/06/1941",8,1,0,1
+"7324C76846397770","Veneto","Belluno","25/09/1937",8,1,1,1
+"2C487C6C9C650E64","Veneto","Belluno","26/02/1937",8,1,0,1
+"81BF4865525F3D24","Emilia-Romagna","Bologna","26/02/1943",8,1,1,1
+"DC4C3F5383B33B38","Emilia-Romagna","Modena","26/02/1943",8,1,1,1
+"872FB851BFE4BDC6","Veneto","Belluno","26/03/1938",8,1,0,1
+"55670897D9FD0DD1","Veneto","Belluno","26/04/1936",8,1,1,1
+"5A0F65D6905C8614","Provincia di Trento","Trento","26/04/1943",8,1,0,1
+"2739DB88CC5ADC1F","Veneto","Belluno","26/08/1937",8,1,0,1
+"3BEB806470E541ED","Veneto","Belluno","26/10/1934",8,1,1,1
+"32497C244B0B983C","Veneto","Belluno","27/01/1939",8,1,0,1
+"19BC215C93C77EFE","Veneto","Belluno","27/01/1943",8,1,0,1
+"415F21E6C9FE937D","Veneto","Belluno","27/05/1943",8,1,0,1
+"36AF9E4F5A7017FD","Veneto","Belluno","27/10/1935",8,1,0,1
+"6D628DCF6D90C4FC","Veneto","Belluno","27/11/1937",8,1,1,1
+"398F1C6E891BB667","Veneto","Belluno","28/01/1941",8,1,0,1
+"4F4D5CDAC625A9A2","Veneto","Belluno","28/04/1939",8,1,1,1
+"2A36270A3E39827E","Veneto","Belluno","28/05/1942",8,1,0,1
+"6E4D0BCF4474A40E","Veneto","Belluno","28/08/1939",8,1,0,1
+"B5391EACF2F84581","Veneto","Belluno","28/08/1941",8,1,0,1
+"79F5D415A390F53B","Veneto","Belluno","28/12/1942",8,1,0,1
+"04FCF0C996161E17","Veneto","Belluno","29/02/1940",8,1,1,1
+"913B2F095C7D2236","Veneto","Belluno","29/03/1943",8,1,1,1
+"F5AC5FB6C7139D2D","Veneto","Belluno","29/04/1939",8,1,1,1
+"8727051E5B02808A","Friuli-Venezia Giulia","Pordenone","29/07/1933",8,1,0,1
+"93040E5D08A21CA5","Veneto","Belluno","29/11/1935",8,1,1,1
+"99521DC8293A18AA","Veneto","Belluno","30/04/1942",8,1,1,1
+"EE8715DA4378D320","Piemonte","Torino","30/06/1941",8,1,0,1
+"D73DC603D96F6247","Veneto","Belluno","30/06/1942",8,1,0,1
+"20C6F4F86F336386","Lombardia","Milano","30/08/1941",8,1,0,1
+"6B465882C907DA70","Estero","Estero","30/09/1938",8,1,0,1
+"5A4665FBF940B594","Veneto","Belluno","30/12/1939",8,1,0,1
+"3AD7984B683431D9","Veneto","Belluno","31/01/1941",8,1,0,1
+"F3320EE31ADAC494","Veneto","Belluno","31/05/1943",8,1,0,1
+"E8462083F47C6DC8","Veneto","Belluno","31/07/1941",8,1,0,1
+"7CF5D94FB25C5ED0","Veneto","Belluno","02/10/1930",9,1,0,1
+"4F97404794C2D671","Provincia di Trento","Trento","05/03/1933",9,1,1,1
+"4D7EE01C5B4B22A7","Veneto","Belluno","06/03/1930",9,1,0,1
+"05C76B8D6E6DCF7E","Veneto","Belluno","09/03/1930",9,1,1,1
+"B81378F9C52D682A","Veneto","Belluno","11/08/1932",9,1,0,1
+"0F28CB2D095612DF","Veneto","Belluno","11/08/1933",9,1,0,1
+"28170075999CC001","Provincia di Trento","Trento","13/07/1932",9,1,0,1
+"E98708C40D1FEEB1","Veneto","Belluno","14/03/1929",9,1,1,1
+"862DB6CF854C7560","Veneto","Belluno","15/07/1931",9,1,0,1
+"0BBA6FFC32B6247A","Veneto","Belluno","16/12/1932",9,1,1,1
+"D1D01C6177DC68B0","Veneto","Belluno","19/05/1929",9,1,0,1
+"FA376EFADCD8244B","Veneto","Belluno","21/04/1927",9,1,0,1
+"18EDD07209AC96B3","Veneto","Belluno","24/01/1930",9,1,0,1
+"559E64664D1865B4","Veneto","Belluno","26/03/1933",9,1,0,1
+"E1BCC90F58B82E64","Veneto","Belluno","28/07/1932",9,1,0,1
+"E77B685172103756","Veneto","Belluno","30/01/1928",9,1,1,1
+"EB3EBF1B0511A250","Veneto","Belluno","30/05/1933",9,1,0,1
+"5729A4C35ACB5835","Provincia di Trento","Trento","14/12/2017",1,2,0,1
+"9F22E1D82BED731A","Provincia di Trento","Trento","09/07/2014",2,2,0,1
+"33681175CDDBA87E","Veneto","Belluno","31/01/2015",2,2,1,1
+"D101FC05F34FF83E","Veneto","Belluno","06/08/2006",3,2,0,1
+"888F0E41CF0CF8DD","Emilia-Romagna","Bologna","13/07/2007",3,2,0,1
+"027575D5CDAC5DD2","Friuli-Venezia Giulia","Udine","15/09/2010",3,2,0,1
+"191519A5AD0075B2","Veneto","Belluno","16/09/2007",3,2,1,1
+"05D89BB6375F4E57","Estero","Estero","19/03/2008",3,2,1,1
+"7063320B65188F83","Veneto","Belluno","03/01/1996",4,2,0,1
+"280435B49537FA59","Veneto","Belluno","03/03/1994",4,2,1,1
+"FEBB1E30E7A12B38","Veneto","Belluno","03/11/2001",4,2,1,1
+"65BFE00633EB7235","Friuli-Venezia Giulia","Trieste","05/01/1994",4,2,1,1
+"ED5A0EB8B4639FA8","Veneto","Belluno","06/05/1998",4,2,1,1
+"4DE5F911276B41A5","Veneto","Belluno","10/10/2000",4,2,0,1
+"89C9E868B1B0760C","Veneto","Belluno","11/06/2001",4,2,1,1
+"213A72F8860A57C2","Provincia di Trento","Trento","12/03/1996",4,2,0,1
+"D2AFCF2F08C95721","Veneto","Belluno","15/11/2002",4,2,1,1
+"443F4AF3A8503BA5","Provincia di Trento","Trento","19/02/2001",4,2,1,1
+"67E42473443D7C2E","Provincia di Trento","Trento","22/05/2002",4,2,0,1
+"9BAD669946E81FAA","Provincia di Trento","Trento","23/05/2000",4,2,1,1
+"129243293978CA65","Veneto","Belluno","27/01/2001",4,2,0,1
+"DD5A698633E9DC27","Piemonte","Torino","28/12/1994",4,2,1,1
+"C5D221B613FA0708","Veneto","Belluno","29/06/1994",4,2,1,1
+"08ADFEA4CDD2DD9E","Veneto","Belluno","01/06/1979",5,2,1,1
+"23AB88A618851FE1","Provincia di Trento","Trento","02/01/1993",5,2,0,1
+"327714DD1D0AE393","Veneto","Belluno","03/09/1986",5,2,1,1
+"6DADAB8297A5D01D","Veneto","Belluno","05/04/1986",5,2,1,1
+"7DAD1521CAE14486","Veneto","Belluno","05/07/1974",5,2,0,1
+"31555D2F212BA740","Veneto","Belluno","06/03/1985",5,2,1,1
+"D38327D63E845B42","Friuli-Venezia Giulia","Pordenone","06/05/1979",5,2,0,1
+"37812F17AB42E06F","Veneto","Belluno","07/10/1987",5,2,1,1
+"0230CD0B933AA859","Veneto","Belluno","08/08/1975",5,2,1,1
+"4AE8DA79ABC3D9E3","Veneto","Belluno","08/12/1983",5,2,0,1
+"CFABA1AAED1108A1","Provincia di Trento","Trento","09/01/1991",5,2,0,1
+"5074DA04A8AF40B2","Calabria","Vibo Valentia","09/04/1980",5,2,0,1
+"6971BB4505F428FB","Veneto","Belluno","10/09/1993",5,2,1,1
+"EB9542D10AA2C4C3","Provincia di Trento","Trento","10/12/1982",5,2,1,1
+"A7A5103BAA6E04B3","Veneto","Belluno","13/03/1978",5,2,1,1
+"943AF08BF2074D46","Provincia di Trento","Trento","13/06/1976",5,2,0,1
+"D3E4D744C4EBD2D3","Veneto","Belluno","13/07/1987",5,2,0,1
+"E80E008EA728A36D","Veneto","Belluno","14/07/1977",5,2,1,1
+"968D9D1FF765ABB2","Veneto","Belluno","15/10/1981",5,2,0,1
+"051F0F4D7743C0EC","Veneto","Belluno","16/07/1980",5,2,1,1
+"E9553890130EED75","Veneto","Belluno","17/03/1986",5,2,0,1
+"53A5E4E610DBC99B","Veneto","Belluno","17/04/1987",5,2,1,1
+"A620D459E4CB5A67","Veneto","Belluno","17/12/1990",5,2,1,1
+"72AA20E3E2DDECAF","Veneto","Belluno","18/07/1990",5,2,0,1
+"9530504C9FD1557B","Umbria","Terni","18/10/1989",5,2,1,1
+"F80B67EF6B984E3F","Veneto","Belluno","18/11/1988",5,2,1,1
+"74951C9D6CAD70F5","Veneto","Belluno","19/05/1974",5,2,0,1
+"CBB63D7623A4F60B","Veneto","Belluno","20/04/1974",5,2,0,1
+"C3315F37D63726EE","Veneto","Belluno","21/08/1975",5,2,0,1
+"98FA7532C807B311","Provincia di Trento","Trento","22/03/1984",5,2,0,1
+"6347F30927EFBFEC","Veneto","Belluno","22/12/1973",5,2,1,1
+"3B4F559EEA4AA15E","Veneto","Belluno","23/02/1976",5,2,0,1
+"0A0814A76E461BDC","Veneto","Belluno","25/04/1976",5,2,1,1
+"50D67282BBF1CDCA","Veneto","Belluno","25/09/1975",5,2,0,1
+"ED370B965DB8BC15","Provincia di Trento","Trento","26/04/1989",5,2,0,1
+"1EA563E5E573A109","Veneto","Belluno","27/04/1982",5,2,1,1
+"F1C849A053E97595","Veneto","Belluno","27/07/1983",5,2,0,1
+"5CEBE0C38D47F272","Provincia di Trento","Trento","28/01/1988",5,2,0,1
+"1AC9BD1918611D97","Veneto","Belluno","28/06/1974",5,2,0,1
+"EBB666CD34FAE363","Veneto","Belluno","28/08/1973",5,2,1,1
+"581C97E1B84092C4","Provincia di Trento","Trento","29/12/1979",5,2,0,1
+"2E7B7E74D7C03BA9","Provincia di Trento","Trento","31/03/1983",5,2,1,1
+"FB77C5F54C3A1875","Toscana","Livorno","31/10/1975",5,2,0,1
+"DB7CEEA0845882F4","Veneto","Belluno","01/01/1956",6,2,1,1
+"7F7AAB71165FFD74","Veneto","Belluno","01/01/1963",6,2,0,1
+"38FE48515E84C060","Veneto","Belluno","01/04/1965",6,2,1,1
+"20A7F1D3F9E542FF","Veneto","Belluno","01/05/1961",6,2,0,1
+"B3E0FE102AAC296A","Veneto","Belluno","01/07/1963",6,2,0,1
+"3A99D50E4E690264","Veneto","Belluno","01/08/1955",6,2,0,1
+"32A9B77399D86322","Veneto","Belluno","01/12/1957",6,2,0,1
+"2F68BADD70636AAC","Veneto","Belluno","02/11/1955",6,2,1,1
+"F08098F9CA7F705D","Veneto","Belluno","03/02/1960",6,2,0,1
+"A56D47B16BEAD5D4","Veneto","Belluno","03/02/1964",6,2,0,1
+"93198AE518D899C0","Veneto","Belluno","03/08/1963",6,2,1,1
+"23B907DCAF83DDC2","Veneto","Belluno","03/09/1963",6,2,0,1
+"3220FEBB12088892","Veneto","Belluno","04/03/1953",6,2,1,1
+"034EE4991049317B","Veneto","Belluno","04/03/1970",6,2,1,1
+"26D4B2F00DE58760","Veneto","Belluno","04/10/1962",6,2,1,1
+"639BF46F9B096B53","Veneto","Belluno","04/11/1970",6,2,1,1
+"854A1E3DFD34A1B0","Veneto","Belluno","04/12/1953",6,2,1,1
+"9970DE9947A2294E","Veneto","Belluno","05/06/1966",6,2,0,1
+"1C46F60AB239C88D","Veneto","Belluno","05/07/1963",6,2,1,1
+"12340D07471E718B","Veneto","Belluno","06/01/1964",6,2,1,1
+"DE799C624026C0D4","Veneto","Belluno","06/01/1965",6,2,0,1
+"984987BF9B79FE69","Veneto","Belluno","06/02/1956",6,2,0,1
+"7C3F61678F07C948","Veneto","Belluno","06/04/1971",6,2,1,1
+"2B039C43D5A82F74","Veneto","Belluno","06/05/1967",6,2,1,1
+"7151BFD811464F24","Veneto","Belluno","06/06/1955",6,2,0,1
+"39DA57E2B2776A93","Veneto","Belluno","06/11/1970",6,2,0,1
+"440576B1DD0391C8","Veneto","Belluno","07/07/1962",6,2,0,1
+"0AD7F8CAEDCFB9AB","Veneto","Belluno","07/08/1966",6,2,0,1
+"72E7C482E86EF478","Veneto","Belluno","08/02/1971",6,2,0,1
+"AC26E7B174D6CAB7","Provincia di Trento","Trento","08/04/1965",6,2,0,1
+"740B05FBACF4521C","Provincia di Trento","Trento","08/06/1966",6,2,0,1
+"52D9B1AB12EECD05","Provincia di Trento","Trento","08/08/1954",6,2,1,1
+"0BCCEBE18C11EA46","Veneto","Belluno","08/08/1955",6,2,0,1
+"34BD2E603E3ED55A","Veneto","Belluno","08/10/1965",6,2,1,1
+"4D3860512B55E4F5","Provincia di Trento","Trento","09/05/1961",6,2,1,1
+"5EFB8F3EB283E809","Veneto","Belluno","09/06/1955",6,2,1,1
+"17245217CCFFFD77","Veneto","Belluno","09/07/1967",6,2,1,1
+"1BF5E02AF85173C3","Veneto","Belluno","09/08/1966",6,2,0,1
+"A5271D16CDDA20CE","Veneto","Belluno","09/09/1953",6,2,0,1
+"6A0BCF3DFBCE8C09","Provincia di Bolzano","Bolzano-Bozen","10/02/1959",6,2,1,1
+"DDBEF843212F1E49","Veneto","Belluno","10/04/1972",6,2,1,1
+"B573F162430745D1","Veneto","Belluno","10/05/1960",6,2,1,1
+"B9FE6BF9E9B39081","Campania","Caserta","10/08/1962",6,2,1,1
+"118B499BD8C7078E","Veneto","Belluno","10/08/1964",6,2,1,1
+"FB21B40CAF564069","Provincia di Trento","Trento","10/10/1963",6,2,0,1
+"FE61C119359DA75C","Veneto","Belluno","11/01/1962",6,2,0,1
+"BF00367DD595DE25","Provincia di Bolzano","Bolzano-Bozen","11/01/1967",6,2,1,1
+"62D831C8611B7926","Veneto","Belluno","11/03/1956",6,2,1,1
+"9FD1AEC671D54DE2","Veneto","Belluno","11/03/1968",6,2,1,1
+"BE66D79B0D7EE748","Veneto","Belluno","11/09/1973",6,2,0,1
+"39A59EE6C367858E","Veneto","Belluno","11/12/1960",6,2,0,1
+"637DE9745A6F4470","Veneto","Belluno","12/02/1970",6,2,0,1
+"40F0671A164A75D0","Veneto","Belluno","12/06/1957",6,2,1,1
+"ACED8456683B8D02","Veneto","Belluno","12/07/1966",6,2,1,1
+"CB74D2FE47453584","Provincia di Trento","Trento","12/09/1961",6,2,0,1
+"4715B6ED0CA4B0F4","Piemonte","Alessandria","12/10/1957",6,2,1,1
+"A8684E4586E12886","Veneto","Belluno","12/10/1957",6,2,0,1
+"11D632DC0309D79B","Veneto","Belluno","13/01/1963",6,2,0,1
+"0719BB4459686C3A","Veneto","Belluno","13/01/1971",6,2,0,1
+"76678A215DEB0E4A","Veneto","Belluno","13/03/1959",6,2,0,1
+"815E4D0D89F91983","Provincia di Trento","Trento","13/04/1963",6,2,0,1
+"0EF90E82237868CD","Veneto","Belluno","13/08/1958",6,2,0,1
+"7832852D01DC8796","Veneto","Belluno","14/02/1956",6,2,0,1
+"1BCFE588A09AFFC2","Veneto","Belluno","14/06/1967",6,2,1,1
+"FFB1B20098808C97","Veneto","Belluno","14/08/1964",6,2,1,1
+"48F8EE5DC0FD2C5D","Provincia di Trento","Trento","14/10/1968",6,2,0,1
+"A8BD07A6FD4233AF","Veneto","Belluno","14/10/1972",6,2,0,1
+"45B7DE08FAA45904","Veneto","Belluno","15/03/1965",6,2,0,1
+"D0DF4253E01906E3","Veneto","Belluno","15/06/1954",6,2,0,1
+"DD7D51E0A51DB499","Veneto","Belluno","15/11/1955",6,2,1,1
+"DFFC9ED7BB00875F","Veneto","Belluno","15/12/1967",6,2,0,1
+"0E53AA935FD182F1","Veneto","Belluno","16/01/1966",6,2,1,1
+"36F16687468B2033","Veneto","Belluno","16/03/1960",6,2,0,1
+"C3AAF78509F14193","Veneto","Belluno","16/05/1970",6,2,0,1
+"C5DA07B84565B3AF","Veneto","Belluno","16/06/1966",6,2,0,1
+"F3CD62FF043CA38E","Veneto","Belluno","16/07/1961",6,2,0,1
+"A73946208A196B02","Veneto","Belluno","16/08/1954",6,2,1,1
+"BA4B742E3D4A112C","Veneto","Belluno","16/12/1962",6,2,0,1
+"7A4405ABFF903AF4","Liguria","Savona","16/12/1964",6,2,1,1
+"BA363734A519BFBF","Veneto","Belluno","16/12/1970",6,2,1,1
+"A8DB01B91CD77110","Veneto","Belluno","17/04/1967",6,2,0,1
+"BFAD10AEC07AAC13","Veneto","Belluno","17/09/1954",6,2,0,1
+"078CCBCE9FE38A3B","Veneto","Belluno","18/09/1966",6,2,1,1
+"C355294CF7EA0C99","Veneto","Belluno","19/02/1971",6,2,0,1
+"78C51B6AC08C13E4","Veneto","Belluno","19/08/1973",6,2,1,1
+"EDBB2EEE9911F2A8","Veneto","Belluno","20/07/1954",6,2,0,1
+"88DF19154912CA24","Provincia di Trento","Trento","20/09/1968",6,2,1,1
+"5E7E6BFFA3C461D7","Veneto","Belluno","21/03/1960",6,2,0,1
+"DC8FF01E886D4E94","Piemonte","Torino","21/03/1964",6,2,0,1
+"95696BD30BA92E52","Veneto","Belluno","21/04/1962",6,2,0,1
+"2083CF70BCB577C0","Veneto","Belluno","21/04/1972",6,2,0,1
+"2C7E8FA1FC3201B9","Veneto","Belluno","21/06/1958",6,2,1,1
+"8145AEAC0212CCB3","Provincia di Trento","Trento","21/08/1953",6,2,0,1
+"DEA15AF3E404AF0D","Veneto","Belluno","21/09/1966",6,2,0,1
+"EBC759AA8E5A569A","Emilia-Romagna","Rimini","21/10/1957",6,2,0,1
+"0560CFFF7D22EE70","Veneto","Belluno","22/01/1961",6,2,1,1
+"00B6308260B709AC","Toscana","Firenze","22/02/1960",6,2,0,1
+"867B73CBD90357DB","Lombardia","Milano","22/03/1964",6,2,1,1
+"6474CAB4233043E2","Veneto","Belluno","22/08/1959",6,2,1,1
+"96ECFDC08CED73CF","Veneto","Belluno","23/01/1955",6,2,1,1
+"CFAD5965CEF0FD21","Veneto","Belluno","23/01/1970",6,2,1,1
+"6DB3ADA1B78FF2B6","Veneto","Belluno","23/08/1966",6,2,0,1
+"D7C6B38B70E95147","Veneto","Belluno","24/04/1970",6,2,1,1
+"2EEDD3440BE001B9","Veneto","Belluno","24/05/1961",6,2,0,1
+"F8555B117C2AECB4","Veneto","Belluno","24/07/1968",6,2,1,1
+"5A1A3C74A46E8A8A","Provincia di Trento","Trento","25/01/1972",6,2,1,1
+"BD612C8779130DB4","Veneto","Belluno","25/12/1963",6,2,1,1
+"063A0B2CAA8B6C93","Veneto","Belluno","26/02/1962",6,2,1,1
+"11203DBF98EB170F","Veneto","Belluno","26/03/1955",6,2,0,1
+"5104CE3110A4C13A","Campania","Napoli","26/03/1955",6,2,0,1
+"BB25FB51C32BD604","Veneto","Belluno","26/09/1955",6,2,0,1
+"76A4021583C79A71","Veneto","Belluno","27/04/1963",6,2,1,1
+"CEE3326AD60E09D4","Veneto","Belluno","27/08/1958",6,2,1,1
+"4B9E86CD805A006A","Veneto","Belluno","27/08/1971",6,2,1,1
+"99D4318ECF44A897","Toscana","Firenze","27/09/1955",6,2,1,1
+"59F4C7477BB12785","Veneto","Belluno","27/11/1962",6,2,0,1
+"334542B18FA4E879","Veneto","Belluno","27/12/1956",6,2,0,1
+"1FC642F6BE83BC9D","Veneto","Belluno","27/12/1959",6,2,0,1
+"99D261D39705393A","Veneto","Belluno","27/12/1963",6,2,0,1
+"EB1AF590CE6655B6","Friuli-Venezia Giulia","Pordenone","28/05/1968",6,2,0,1
+"EBB666CD34FAE363","Veneto","Belluno","28/08/1973",6,2,1,1
+"C660D8F6E9584C1A","Veneto","Belluno","28/09/1963",6,2,0,1
+"1A904B4DE0B38E11","Veneto","Belluno","28/11/1957",6,2,0,1
+"75867EE38DD8EC2C","Emilia-Romagna","Ferrara","29/01/1959",6,2,0,1
+"9EEE3F70ADD6CFE5","Veneto","Belluno","29/02/1968",6,2,0,1
+"4EC62B8FBC50BD8B","Veneto","Belluno","29/03/1960",6,2,0,1
+"E820F37BF948D8BE","Veneto","Belluno","29/04/1954",6,2,1,1
+"2D306E9B26D1AC4E","Veneto","Belluno","29/04/1955",6,2,0,1
+"170E46EF1DF10BD9","Provincia di Trento","Trento","29/04/1967",6,2,0,1
+"FD7F8577C4171EF3","Veneto","Belluno","29/08/1965",6,2,1,1
+"01C6B7B7A4E8E51F","Provincia di Trento","Trento","29/10/1960",6,2,0,1
+"57C75D9567EA8CA9","Veneto","Belluno","29/11/1960",6,2,1,1
+"386CFFDF590413DE","Veneto","Belluno","29/11/1965",6,2,0,1
+"088412CA4A9D5D7E","Veneto","Belluno","29/11/1970",6,2,1,1
+"85711FC34492E664","Lazio","Roma","30/01/1967",6,2,1,1
+"DB4B3629564A6091","Veneto","Belluno","30/08/1955",6,2,0,1
+"E8B2E7A3607B88CF","Veneto","Belluno","30/10/1959",6,2,0,1
+"C84EC8160F2F1B8F","Veneto","Belluno","31/01/1969",6,2,0,1
+"20DEBFC7028F8899","Veneto","Belluno","31/07/1964",6,2,0,1
+"85AFB59E9E2CA4D2","Provincia di Trento","Trento","31/07/1972",6,2,0,1
+"782F8D5E376C2462","Veneto","Belluno","01/07/1953",7,2,0,1
+"BF725CB52F8035FF","Veneto","Belluno","01/10/1944",7,2,0,1
+"DEEF5949C86665B7","Veneto","Belluno","01/10/1944",7,2,0,1
+"43146B08D429CE96","Veneto","Belluno","02/02/1953",7,2,0,1
+"A2BBA98C2A097A0B","Provincia di Trento","Trento","02/04/1944",7,2,0,1
+"7E325EABA4A816B9","Veneto","Belluno","02/04/1948",7,2,1,1
+"063C6FCA3F20C340","Veneto","Belluno","02/09/1948",7,2,0,1
+"D503E1D8CE437FD1","Friuli-Venezia Giulia","Udine","03/01/1944",7,2,1,1
+"22613CFA8947E4B0","Veneto","Belluno","03/03/1948",7,2,1,1
+"0B2BF4BCCEF28AC7","Veneto","Belluno","03/08/1947",7,2,1,1
+"98B9F427773F99BD","Friuli-Venezia Giulia","Udine","03/10/1944",7,2,1,1
+"938E0682FCEB6B3E","Veneto","Belluno","03/11/1946",7,2,0,1
+"82310C5F70D245B1","Veneto","Belluno","04/01/1950",7,2,1,1
+"854A1E3DFD34A1B0","Veneto","Belluno","04/12/1953",7,2,1,1
+"A60EB9BE6A15A368","Sicilia","Palermo","05/07/1951",7,2,0,1
+"8430302F006C6B20","Veneto","Belluno","05/11/1952",7,2,1,1
+"1CB687025FEA900E","Veneto","Belluno","06/02/1948",7,2,0,1
+"BE7CF704EBAFE186","Veneto","Belluno","06/03/1946",7,2,0,1
+"5A2503365C9CB6C8","Veneto","Belluno","06/04/1945",7,2,0,1
+"6F7B4B88E56B9CF6","Veneto","Belluno","06/04/1945",7,2,1,1
+"1E0B215A3E5E4F29","Veneto","Belluno","06/12/1950",7,2,1,1
+"350AD44957EF5475","Veneto","Belluno","07/02/1945",7,2,0,1
+"50E7C93F057FB915","Veneto","Belluno","07/07/1946",7,2,1,1
+"0CCA1B7AD2228F29","Veneto","Belluno","07/11/1946",7,2,0,1
+"6735C99BEDF1EB22","Veneto","Belluno","08/03/1947",7,2,0,1
+"92402BE1C6E8E053","Veneto","Belluno","08/08/1948",7,2,0,1
+"BDC553F5F4DEBD81","Veneto","Belluno","09/02/1950",7,2,1,1
+"4FC071F446D6BE01","Provincia di Trento","Trento","09/05/1946",7,2,1,1
+"4822610AFC323272","Veneto","Belluno","10/06/1946",7,2,1,1
+"9E505E95A8D50E23","Veneto","Belluno","10/10/1947",7,2,0,1
+"7495888C793A7A03","Veneto","Belluno","11/01/1951",7,2,1,1
+"AFA77E6DFDF635D1","Provincia di Trento","Trento","11/06/1945",7,2,0,1
+"8F7845B3A01039BA","Veneto","Belluno","11/07/1949",7,2,1,1
+"61E02B771D6EA30E","Veneto","Belluno","12/01/1952",7,2,1,1
+"6D75BA37998B7896","Veneto","Belluno","12/03/1949",7,2,1,1
+"F753DAC69E33D989","Veneto","Belluno","12/05/1945",7,2,0,1
+"896C95C4B085FB7D","Veneto","Belluno","12/05/1953",7,2,0,1
+"15BAD4ABF28DACF0","Veneto","Belluno","12/11/1946",7,2,1,1
+"F920F73BE33BA0BE","Veneto","Belluno","13/02/1946",7,2,0,1
+"C3B075F785FF137F","Veneto","Belluno","13/04/1945",7,2,0,1
+"36582D3C362C9CB1","Veneto","Belluno","13/11/1948",7,2,0,1
+"C43A74EDEFF8F3B1","Friuli-Venezia Giulia","Udine","14/03/1948",7,2,1,1
+"728063FA749220C1","Veneto","Belluno","14/07/1947",7,2,1,1
+"28F3879EF6536CB2","Veneto","Belluno","14/10/1944",7,2,1,1
+"ECAA92908424A404","Veneto","Belluno","14/12/1946",7,2,1,1
+"D372C2AD4FA3DEAF","Veneto","Belluno","14/12/1952",7,2,1,1
+"FF1BD12D0F9456A1","Veneto","Belluno","15/01/1947",7,2,1,1
+"9978A07C4865E76B","Veneto","Belluno","15/01/1949",7,2,1,1
+"D3855C26784C9455","Liguria","Genova","15/01/1949",7,2,1,1
+"70DA19B422BCC7C4","Veneto","Belluno","15/04/1948",7,2,0,1
+"F6B8A9EDBEA00532","Veneto","Belluno","15/06/1945",7,2,0,1
+"A8C7687DB07B947E","Veneto","Belluno","15/08/1949",7,2,0,1
+"9EB5274BB5E263EC","Veneto","Belluno","16/05/1947",7,2,1,1
+"4AFF9407A5BF41CF","Veneto","Belluno","16/06/1948",7,2,0,1
+"EEDCB5D8AA83E1EC","Veneto","Belluno","16/07/1952",7,2,1,1
+"9C07EC24412377E9","Veneto","Belluno","16/12/1946",7,2,1,1
+"5E046C355965775E","Veneto","Belluno","17/01/1948",7,2,0,1
+"254914FD100966A6","Veneto","Belluno","17/03/1952",7,2,1,1
+"0527F9F0FA9A22F5","Provincia di Trento","Trento","17/06/1952",7,2,1,1
+"060B4179D1C9BBE0","Veneto","Belluno","17/11/1951",7,2,1,1
+"A4214C11A14242B3","Veneto","Belluno","18/01/1945",7,2,1,1
+"1244590D305C5EF8","Veneto","Belluno","18/02/1947",7,2,1,1
+"DED30E2AF078B1D1","Veneto","Belluno","18/04/1943",7,2,1,1
+"09CDFE1A3FF0893A","Veneto","Belluno","18/04/1945",7,2,0,1
+"D62AEBE2EA3E7438","Veneto","Belluno","18/07/1945",7,2,0,1
+"9E1EAB5603D1D08A","Veneto","Belluno","18/10/1946",7,2,1,1
+"CD5912FD52FD34C5","Veneto","Belluno","19/03/1948",7,2,0,1
+"7A2D8CB534C83CCD","Veneto","Belluno","19/04/1949",7,2,0,1
+"0C0948AEA31A3979","Veneto","Belluno","19/11/1946",7,2,0,1
+"9F1AB06992423EA9","Veneto","Venezia","20/05/1951",7,2,0,1
+"3053309F1F2A934F","Provincia di Trento","Trento","21/05/1952",7,2,0,1
+"5505AD29F213856E","Veneto","Belluno","21/08/1949",7,2,1,1
+"3D322E3DD623594E","Veneto","Belluno","21/12/1952",7,2,1,1
+"669C3A16B00B796D","Veneto","Belluno","22/04/1944",7,2,0,1
+"236CB74A7C2C3EEF","Veneto","Belluno","22/07/1949",7,2,1,1
+"A53F4FFEEFB7EF5C","Lombardia","Milano","22/11/1948",7,2,1,1
+"BF9EBDCADD872719","Veneto","Belluno","23/02/1951",7,2,0,1
+"A85C7D87FFC3D09D","Veneto","Belluno","23/03/1947",7,2,0,1
+"1B9CED569D4D9188","Veneto","Belluno","23/09/1952",7,2,0,1
+"B99EC18A0B9A66FA","Provincia di Trento","Trento","24/02/1947",7,2,0,1
+"294D3FCBA11A5423","Veneto","Belluno","24/06/1952",7,2,0,1
+"74792C825BE26890","Veneto","Belluno","25/02/1951",7,2,0,1
+"0475C338778CB930","Veneto","Belluno","25/08/1948",7,2,0,1
+"651D56C16F2B9E48","Veneto","Belluno","25/09/1950",7,2,0,1
+"6275353A23DF72E1","Veneto","Belluno","26/03/1946",7,2,1,1
+"7232221D0E568702","Veneto","Belluno","27/12/1947",7,2,0,1
+"E296FC5B69DC34FE","Campania","Salerno","28/02/1948",7,2,0,1
+"47F0DA3A9C7CAB03","Veneto","Belluno","28/03/1944",7,2,0,1
+"B3B0353425F5D9D8","Veneto","Belluno","28/08/1945",7,2,1,1
+"4241EC76A66373AF","Veneto","Belluno","29/04/1946",7,2,0,1
+"36B526FD3A5084F8","Provincia di Trento","Trento","30/01/1951",7,2,0,1
+"4DE1DE24139A2DC7","Veneto","Belluno","30/09/1948",7,2,0,1
+"BFAB70C0013A26F6","Veneto","Belluno","30/12/1947",7,2,0,1
+"901BC4C6886CA898","Veneto","Belluno","31/05/1952",7,2,1,1
+"9A0DFC1548CC8B2E","Sicilia","Agrigento","31/07/1947",7,2,0,1
+"7EF6B90B9ADF8979","Veneto","Belluno","31/10/1947",7,2,0,1
+"C30C947504CE1CF0","Veneto","Belluno","01/04/1933",8,2,0,1
+"840D68909160CFC1","Veneto","Belluno","01/07/1937",8,2,0,1
+"884ECD7153FE4DD6","Veneto","Belluno","01/11/1938",8,2,0,1
+"F933BD9684F599B2","Veneto","Belluno","02/03/1934",8,2,0,1
+"7A8F3A47FD7493E2","Veneto","Belluno","02/05/1943",8,2,0,1
+"711762F2480EE644","Veneto","Belluno","02/07/1943",8,2,0,1
+"7207B8D3939033A0","Veneto","Belluno","02/07/1943",8,2,1,1
+"7F6EB1A58321804A","Veneto","Belluno","02/09/1939",8,2,0,1
+"ADA7AEAD41332B64","Veneto","Belluno","02/09/1939",8,2,1,1
+"F7CFC94D1D8D0235","Provincia di Trento","Trento","02/11/1934",8,2,0,1
+"E2FDE9E8BDC06C01","Sicilia","Palermo","03/04/1939",8,2,1,1
+"F3416CA45094302E","Veneto","Belluno","03/11/1941",8,2,1,1
+"7D4FB4687B73E502","Veneto","Belluno","04/04/1943",8,2,0,1
+"BB904D05C7A57438","Veneto","Belluno","04/12/1939",8,2,0,1
+"77CEDA80A45DACD4","Sicilia","Messina","05/03/1940",8,2,0,1
+"B9FFF3725EDFAD75","Veneto","Belluno","06/01/1940",8,2,0,1
+"E50B7D88C69C9890","Veneto","Belluno","06/04/1941",8,2,1,1
+"988171B52C629F54","Veneto","Belluno","06/12/1941",8,2,0,1
+"256DC77927A16E7B","Provincia di Trento","Trento","07/10/1933",8,2,0,1
+"0AB7B1FFCE63C28B","Provincia di Trento","Trento","08/10/1937",8,2,0,1
+"22AE1B0FD1C2FA83","Veneto","Belluno","09/02/1933",8,2,1,1
+"25DB771A23CD0EBE","Veneto","Belluno","09/05/1943",8,2,0,1
+"7571E51DA704268E","Veneto","Belluno","09/10/1940",8,2,1,1
+"ADD3D256263941B5","Lombardia","Milano","10/04/1936",8,2,0,1
+"49EBB9BC9F4AF7CE","Veneto","Belluno","10/05/1940",8,2,0,1
+"8F99C40742298E22","Veneto","Belluno","10/06/1936",8,2,0,1
+"57328AAC9C1F2D24","Veneto","Belluno","10/11/1935",8,2,0,1
+"C035C7169E30570F","Estero","Estero","12/01/1938",8,2,1,1
+"044BBBACBE9C7936","Lazio","Latina","12/03/1935",8,2,0,1
+"E105F55062626F46","Marche","Ancona","12/12/1940",8,2,1,1
+"41263EEEC51B14E7","Lombardia","Milano","13/06/1941",8,2,1,1
+"C1403C3DFE287B62","Veneto","Belluno","13/10/1937",8,2,0,1
+"5FCE5BE57C333D0B","Veneto","Belluno","13/12/1940",8,2,0,1
+"F4FF7B6A3612CA28","Veneto","Belluno","14/03/1939",8,2,0,1
+"6004F22021247989","Veneto","Belluno","14/05/1935",8,2,1,1
+"93FBC578A454B301","Veneto","Belluno","14/06/1940",8,2,0,1
+"30C94D5CBA3605AA","Veneto","Belluno","14/08/1935",8,2,0,1
+"F6A8576941140AA9","Provincia di Trento","Trento","14/09/1936",8,2,1,1
+"F7E8B7C5BE6D9720","Veneto","Belluno","15/04/1939",8,2,0,1
+"7ADE83BE7D48C1B8","Veneto","Belluno","15/09/1939",8,2,0,1
+"15D32E1F60D05D4E","Veneto","Belluno","17/01/1939",8,2,0,1
+"33F5E82D15626B07","Veneto","Belluno","17/05/1942",8,2,1,1
+"F98C5C96A5598B73","Veneto","Belluno","17/10/1939",8,2,1,1
+"29CA53F3018D4466","Veneto","Belluno","17/11/1934",8,2,1,1
+"81FF945E7001E062","Veneto","Belluno","17/11/1939",8,2,0,1
+"EA072122BAE9DA35","Provincia di Trento","Trento","18/04/1936",8,2,0,1
+"DED30E2AF078B1D1","Veneto","Belluno","18/04/1943",8,2,1,1
+"C87DCA7B31094DF3","Veneto","Belluno","18/12/1939",8,2,1,1
+"E35675DA7B9B0EB4","Veneto","Belluno","19/06/1939",8,2,0,1
+"B4DC4C4A2EB4322E","Veneto","Belluno","19/10/1942",8,2,0,1
+"C8A2A05B85D23980","Veneto","Belluno","19/12/1939",8,2,1,1
+"78226C6558CF79E5","Veneto","Belluno","20/01/1936",8,2,0,1
+"723B526515AAAF90","Veneto","Belluno","20/01/1940",8,2,0,1
+"782E71D68CF3688B","Veneto","Belluno","20/09/1933",8,2,0,1
+"A473F4901FB493A8","Veneto","Belluno","20/11/1939",8,2,1,1
+"A9439F8920466AAA","Veneto","Belluno","20/12/1941",8,2,1,1
+"DCD3E83071CBD4FF","Lazio","Roma","21/06/1941",8,2,1,1
+"F8E7CEF256CE9C4C","Veneto","Belluno","21/09/1942",8,2,0,1
+"443C777ECD34E1B9","Veneto","Belluno","21/11/1933",8,2,1,1
+"40CDCC4B9991E38C","Veneto","Belluno","22/01/1941",8,2,0,1
+"B7B6768539B9CC53","Veneto","Belluno","22/06/1942",8,2,0,1
+"F7D6792181B75E1A","Lombardia","Milano","22/11/1941",8,2,0,1
+"742AF16FF0FE8332","Veneto","Belluno","23/03/1940",8,2,0,1
+"5E421DEB11C2F781","Veneto","Belluno","23/09/1941",8,2,0,1
+"78FC4BB09A1B0093","Veneto","Belluno","23/12/1942",8,2,1,1
+"5AEA423B701B71EA","Veneto","Belluno","24/04/1940",8,2,0,1
+"54778967DF8DD006","Umbria","Perugia","26/02/1941",8,2,1,1
+"DD21625A6FBE09EE","Veneto","Belluno","26/06/1935",8,2,0,1
+"4830C349D278A9C5","Veneto","Belluno","26/10/1933",8,2,0,1
+"5BDBD654B9214007","Veneto","Belluno","26/10/1940",8,2,0,1
+"A5C68EA0EE0A0E4A","Veneto","Belluno","26/11/1936",8,2,0,1
+"6AF622E316102B82","Friuli-Venezia Giulia","Gorizia","27/03/1938",8,2,0,1
+"73120377C0151ADC","Veneto","Belluno","27/04/1941",8,2,1,1
+"E16149AEA46012FE","Veneto","Belluno","27/05/1935",8,2,0,1
+"3B68683A0AF87FEA","Veneto","Belluno","28/02/1940",8,2,0,1
+"D5DBA8F91AD82D7E","Veneto","Belluno","28/11/1933",8,2,1,1
+"D87123AC9B87FF9F","Veneto","Belluno","28/11/1935",8,2,1,1
+"6F6CFD3CB0D89B09","Veneto","Belluno","29/09/1937",8,2,1,1
+"BD4880430338D55D","Veneto","Belluno","30/11/1937",8,2,0,1
+"8A28CCECA63B16D8","Veneto","Belluno","31/05/1933",8,2,0,1
+"4AEC36C21E674578","Lazio","Roma","02/03/1932",9,2,0,1
+"6C1E3007A2A7BF41","Provincia di Bolzano","Bolzano-Bozen","02/09/1931",9,2,1,1
+"6C413F04D570EF5C","Friuli-Venezia Giulia","Pordenone","07/11/1929",9,2,0,1
+"6C5DCC2086C44F3A","Veneto","Belluno","11/09/1932",9,2,1,1
+"443C777ECD34E1B9","Veneto","Belluno","21/11/1933",9,2,1,1
+"4830C349D278A9C5","Veneto","Belluno","26/10/1933",9,2,0,1
+"B26F27F913543812","Provincia di Trento","Trento","21/06/2015",2,3,1,1
+"0B7B22DBBFCB4FFD","Friuli-Venezia Giulia","Pordenone","28/11/2014",2,3,0,1
+"90AE5733A7845365","Veneto","Belluno","18/06/1994",4,3,1,1
+"2F5CF6036965C1FF","Veneto","Belluno","24/07/1994",4,3,0,1
+"B160AF49CC7EF5E8","Provincia di Trento","Trento","02/11/1977",5,3,1,1
+"7F52A40BEB6A14C9","Provincia di Bolzano","Bolzano-Bozen","08/08/1974",5,3,0,1
+"F984A33AD4732CB6","Sicilia","Trapani","10/01/1980",5,3,0,1
+"EF6F307F80AD405B","Veneto","Belluno","10/12/1979",5,3,1,1
+"29294BECFD361B8E","Veneto","Belluno","11/09/1984",5,3,1,1
+"F7FA9E3B933EDC3A","Veneto","Belluno","12/04/1979",5,3,0,1
+"483267E382DF7624","Veneto","Belluno","12/06/1990",5,3,0,1
+"DBCE4AEEA4AE4EC9","Calabria","Cosenza","13/05/1974",5,3,0,1
+"94D60A5EC909FE39","Provincia di Trento","Trento","14/04/1980",5,3,0,1
+"5BFF0D7FA4A206E0","Provincia di Trento","Trento","16/04/1980",5,3,0,1
+"6E21A435DBB3030D","Veneto","Belluno","17/01/1974",5,3,1,1
+"4DF4DC910D1FBDEB","Provincia di Trento","Trento","18/03/1981",5,3,0,1
+"E1EBF204F795567E","Veneto","Belluno","18/07/1974",5,3,0,1
+"D4F9D38A064B59B5","Veneto","Belluno","18/09/1974",5,3,1,1
+"019842402CCCC18E","Emilia-Romagna","Forli-Cesena","19/02/1975",5,3,1,1
+"B7638C7F5CA41389","Estero","Estero","19/06/1986",5,3,1,1
+"41362753BDA820E6","Veneto","Belluno","21/07/1977",5,3,0,1
+"39918417706DD2B9","Provincia di Trento","Trento","21/11/1977",5,3,0,1
+"3EAD22EA05AE6DFD","Piemonte","Verbano-Cusio-Ossola","24/02/1979",5,3,0,1
+"763E36612EB9B0AE","Veneto","Belluno","24/09/1973",5,3,1,1
+"10EC48689E292BC2","Friuli-Venezia Giulia","Pordenone","26/08/1977",5,3,1,1
+"842DCCF9935039DE","Veneto","Belluno","02/03/1966",6,3,0,1
+"DE03564A499341B0","Veneto","Belluno","03/02/1965",6,3,1,1
+"D9782539BE5F9923","Piemonte","Torino","03/04/1956",6,3,1,1
+"D74B197D8E2EFB07","Veneto","Belluno","03/04/1965",6,3,0,1
+"BF0CE854F110B79A","Friuli-Venezia Giulia","Pordenone","03/11/1968",6,3,0,1
+"17C63663090EC080","Veneto","Belluno","05/03/1961",6,3,0,1
+"22209E303900F9A3","Emilia-Romagna","Modena","05/08/1955",6,3,0,1
+"A9E46F6375095899","Provincia di Trento","Trento","05/10/1973",6,3,0,1
+"72AC93CFEB876A02","Veneto","Belluno","05/11/1965",6,3,0,1
+"617DA5B21C3ED248","Veneto","Belluno","06/05/1958",6,3,0,1
+"A3462053AB93106B","Provincia di Trento","Trento","06/07/1956",6,3,1,1
+"09ABD5E97875ABAD","Veneto","Belluno","06/10/1967",6,3,0,1
+"4B4CBE9805E5EBFC","Veneto","Belluno","07/02/1968",6,3,1,1
+"56B0970BB5A34A69","Provincia di Trento","Trento","08/02/1966",6,3,0,1
+"91D5AF7AE821B513","Veneto","Belluno","08/03/1963",6,3,1,1
+"B89FD9E89B8E2F3D","Veneto","Belluno","08/10/1963",6,3,0,1
+"A499E801C0E6149C","Veneto","Belluno","10/02/1967",6,3,0,1
+"D60DAACE5BB3C169","Provincia di Trento","Trento","10/02/1973",6,3,0,1
+"67D954D1A7A8F548","Veneto","Belluno","10/04/1972",6,3,1,1
+"6CCEA3B8BF97B262","Provincia di Trento","Trento","10/12/1969",6,3,1,1
+"7C8BE9C3591FC01E","Veneto","Belluno","11/02/1957",6,3,0,1
+"A90F28F474CA7030","Veneto","Belluno","11/03/1959",6,3,1,1
+"74CD411E3DFB11A9","Provincia di Trento","Trento","11/05/1967",6,3,1,1
+"6BAEBAB26A004036","Veneto","Belluno","12/07/1957",6,3,0,1
+"8DC80974BF699032","Veneto","Belluno","12/09/1964",6,3,0,1
+"902C3B8C93A46011","Veneto","Belluno","13/10/1958",6,3,1,1
+"2507C879D19B2079","Umbria","Perugia","14/09/1967",6,3,1,1
+"0DCF2AFE8D4CD67B","Veneto","Belluno","16/03/1965",6,3,1,1
+"D4C2CDCA7EB38151","Veneto","Belluno","16/07/1960",6,3,0,1
+"BE4A2517702463D4","Veneto","Belluno","16/07/1964",6,3,1,1
+"8B0EC14C2D2812A8","Veneto","Belluno","17/05/1963",6,3,1,1
+"3345EC2546087A69","Veneto","Belluno","19/03/1971",6,3,1,1
+"8F6576D7E1C686CF","Provincia di Trento","Trento","19/05/1955",6,3,1,1
+"C7FE108C73D42608","Veneto","Belluno","19/07/1964",6,3,1,1
+"A8627AB834FEA166","Provincia di Trento","Trento","21/05/1959",6,3,1,1
+"22A618AC2B61E689","Veneto","Belluno","22/12/1957",6,3,0,1
+"1B9CF0FB4C598498","Veneto","Belluno","23/01/1963",6,3,0,1
+"B3A80A6BC88ADCB8","Provincia di Trento","Trento","23/02/1954",6,3,1,1
+"C1551986289A7981","Provincia di Trento","Trento","23/03/1970",6,3,0,1
+"E8DABE4989858324","Veneto","Belluno","23/06/1971",6,3,0,1
+"763E36612EB9B0AE","Veneto","Belluno","24/09/1973",6,3,1,1
+"FA4F4E77A9BBD4F7","Veneto","Belluno","24/10/1960",6,3,1,1
+"C3BF7DD213614CEC","Veneto","Belluno","24/11/1955",6,3,1,1
+"0A25CB7B4A8346FA","Veneto","Belluno","25/03/1963",6,3,1,1
+"FBEC86A69020E44F","Veneto","Belluno","25/07/1972",6,3,0,1
+"7437015241C745F2","Provincia di Trento","Trento","25/12/1967",6,3,1,1
+"CFC77A32295A0DB4","Veneto","Belluno","26/04/1964",6,3,0,1
+"78294DFC5ECA8373","Veneto","Belluno","26/06/1966",6,3,0,1
+"A1613B7CA296E8E8","Veneto","Belluno","26/09/1957",6,3,1,1
+"716020A607CC79DA","Veneto","Belluno","26/10/1953",6,3,0,1
+"B8B107176B43470D","Veneto","Belluno","27/08/1968",6,3,0,1
+"0EEB0C9E971A53C5","Friuli-Venezia Giulia","Pordenone","28/05/1968",6,3,1,1
+"3BF48CD5FACE6907","Veneto","Belluno","28/12/1961",6,3,0,1
+"8226BDD79B18A995","Provincia di Trento","Trento","29/03/1955",6,3,1,1
+"CC9E48E02BB2E93B","Veneto","Belluno","29/08/1960",6,3,1,1
+"DF154D723EB703BD","Veneto","Belluno","30/06/1966",6,3,1,1
+"94E91664FE10F769","Veneto","Belluno","30/07/1955",6,3,0,1
+"D86C6371C025F1E5","Lazio","Roma","30/10/1972",6,3,1,1
+"09B754AD2BBF3780","Friuli-Venezia Giulia","Udine","31/05/1957",6,3,0,1
+"643B1E1F50DBC1DB","Veneto","Belluno","01/02/1946",7,3,0,1
+"4EF88BE99951B1FB","Lombardia","Milano","01/03/1945",7,3,1,1
+"AF09ABE48A68420D","Veneto","Belluno","01/04/1948",7,3,0,1
+"D6B5C910D18FF9F0","Veneto","Belluno","01/11/1947",7,3,1,1
+"73450B517EF2A115","Veneto","Belluno","02/08/1952",7,3,0,1
+"D787D8629B5448E2","Veneto","Belluno","02/11/1949",7,3,0,1
+"A9622D3F9CEB67C5","Toscana","Arezzo","03/01/1951",7,3,1,1
+"A9622D3F9CEB67C5","Toscana","Pisa","03/01/1951",7,3,1,1
+"972D64D2A65BCD0B","Lombardia","Milano","03/02/1953",7,3,0,1
+"81F8C4A85DBEF977","Provincia di Trento","Trento","03/08/1948",7,3,0,1
+"BA245781D2BA245A","Veneto","Belluno","05/02/1947",7,3,0,1
+"5C4FF734B32949DA","Veneto","Belluno","05/07/1951",7,3,0,1
+"3D4EECEE0EA3FE51","Veneto","Belluno","05/08/1950",7,3,0,1
+"96C1E168B8E15F69","Veneto","Belluno","06/04/1946",7,3,1,1
+"95FD1ABD3C06687B","Veneto","Belluno","07/03/1949",7,3,1,1
+"583B17D6C33C91C4","Provincia di Trento","Trento","07/10/1945",7,3,1,1
+"3EDB7EABE59CBA3D","Veneto","Belluno","08/11/1945",7,3,0,1
+"3233E034E6FEFB1E","Provincia di Trento","Trento","09/10/1949",7,3,1,1
+"47020739277D34EC","Veneto","Belluno","11/08/1946",7,3,1,1
+"EF5C0D1EF4D41735","Veneto","Belluno","15/04/1953",7,3,0,1
+"E34839C317C84EE4","Veneto","Belluno","17/04/1952",7,3,0,1
+"62A0D834FB6A21C7","Veneto","Belluno","17/05/1944",7,3,0,1
+"324C76C3410EA56F","Veneto","Belluno","17/07/1951",7,3,0,1
+"B048F27B19292D2B","Veneto","Belluno","18/05/1944",7,3,0,1
+"53D66AFFFCD4A8BE","Emilia-Romagna","Ravenna","19/09/1944",7,3,1,1
+"7306FEB973F9E08F","Veneto","Belluno","19/10/1948",7,3,1,1
+"D8EFD19BCF3DF30A","Veneto","Belluno","20/02/1947",7,3,1,1
+"54D228D3A4129926","Veneto","Belluno","20/04/1944",7,3,0,1
+"B8137A8E357390EF","Lombardia","Lecco","20/04/1950",7,3,1,1
+"CA3620FB4EDCFA99","Veneto","Belluno","20/06/1950",7,3,0,1
+"3B32BD9714DABCBF","Veneto","Belluno","21/10/1951",7,3,0,1
+"B3A80A6BC88ADCB8","Provincia di Trento","Trento","23/02/1954",7,3,1,1
+"63DDC59A54A581D4","Veneto","Belluno","23/03/1947",7,3,1,1
+"4B9F26975FFBA9F3","Veneto","Belluno","24/01/1949",7,3,0,1
+"0EF2DBA7ABDD0356","Veneto","Belluno","24/04/1949",7,3,0,1
+"BD4EA4BE48F3F6E7","Veneto","Belluno","24/05/1951",7,3,0,1
+"8DFDDDDF18770490","Veneto","Belluno","25/12/1951",7,3,0,1
+"716020A607CC79DA","Veneto","Belluno","26/10/1953",7,3,0,1
+"1AD9D41CD849857C","Veneto","Belluno","28/11/1946",7,3,1,1
+"2050BA0DD279C4C4","Provincia di Trento","Trento","29/07/1952",7,3,0,1
+"38605A15ECC112AE","Lombardia","Monza e della Brianza","31/01/1943",7,3,1,1
+"410A478D129B3C4D","Veneto","Belluno","02/12/1938",8,3,0,1
+"561571F316545CD6","Veneto","Belluno","04/07/1942",8,3,0,1
+"558B02761BAA7A4B","Provincia di Trento","Trento","05/03/1943",8,3,1,1
+"6D4C46E9C0AC3401","Veneto","Belluno","09/05/1942",8,3,1,1
+"4C01A180F93885D0","Liguria","Savona","09/06/1938",8,3,1,1
+"3632C18AE4AD78F4","Veneto","Belluno","10/03/1938",8,3,0,1
+"64AA670156E2F7B9","Veneto","Belluno","15/07/1942",8,3,0,1
+"F6B6982AFB575566","Veneto","Belluno","16/06/1941",8,3,0,1
+"5366B6B84EB9B803","Veneto","Belluno","18/02/1937",8,3,1,1
+"B048F27B19292D2B","Veneto","Belluno","18/05/1944",8,3,0,1
+"AADA69EABE101B08","Estero","Estero","18/12/1938",8,3,0,1
+"DD052D8D28B03FE0","Veneto","Belluno","19/08/1938",8,3,0,1
+"54D228D3A4129926","Veneto","Belluno","20/04/1944",8,3,0,1
+"F05556CF635AB07A","Veneto","Belluno","20/09/1941",8,3,0,1
+"A9A02E1B69342796","Provincia di Trento","Trento","20/12/1941",8,3,0,1
+"51F44E87FA2CEFC8","Veneto","Belluno","22/09/1937",8,3,0,1
+"A324DD913EF184F2","Veneto","Belluno","25/11/1934",8,3,1,1
+"6039F3607985616A","Veneto","Belluno","27/01/1938",8,3,0,1
+"6EF938A3A9DDA827","Veneto","Belluno","29/07/1935",8,3,1,1
+"285744CC00F5BF64","Veneto","Belluno","30/12/1939",8,3,0,1
+"38605A15ECC112AE","Lombardia","Monza e della Brianza","31/01/1943",8,3,1,1
+"98A7FABF5D707E1C","Veneto","Belluno","01/06/1931",9,3,0,1
+"CBF380758475E909","Veneto","Belluno","17/10/1932",9,3,0,1
+"02015B452435938F","Provincia di Trento","Trento","23/03/1933",9,3,0,1
+"4D376A7BBDCEFC43","Friuli-Venezia Giulia","Pordenone","20/04/2017",1,4,0,1
+"4D376A7BBDCEFC43","Friuli-Venezia Giulia","Pordenone","20/04/2017",2,4,0,1
+"E1AB22CB4E5EB533","Provincia di Trento","Trento","13/05/1995",4,4,1,1
+"1D8EA0BAECEEE1FC","Veneto","Belluno","06/05/1974",5,4,0,1
+"743B6870477D0AFC","Veneto","Belluno","18/04/1975",5,4,1,1
+"3B6095EE29B56FF7","Veneto","Belluno","25/02/1977",5,4,1,1
+"1E1E40673706664F","Veneto","Belluno","31/05/1979",5,4,0,1
+"7F36FE29A0AFCE6F","Lombardia","Pavia","03/06/1966",6,4,1,1
+"DD015EB857531526","Provincia di Trento","Trento","06/07/1971",6,4,1,1
+"2D429548B1F6AE07","Veneto","Belluno","07/06/1961",6,4,1,1
+"55EAC5ADFEB2A619","Veneto","Belluno","09/09/1960",6,4,0,1
+"CB41FAF58D47514B","Veneto","Belluno","10/07/1958",6,4,0,1
+"B7740732EB450902","Campania","Salerno","10/08/1953",6,4,0,1
+"9AB53B5C41C40D3D","Estero","Estero","14/01/1962",6,4,0,1
+"E8C3E7DB3D8C44CB","Veneto","Belluno","14/01/1966",6,4,1,1
+"C93289B418F5B8C3","Veneto","Belluno","14/10/1972",6,4,0,1
+"B775D37FC4477450","Veneto","Belluno","15/06/1955",6,4,1,1
+"08DE4A10AE802C75","Veneto","Belluno","17/06/1964",6,4,0,1
+"740B824736F2CB97","Veneto","Belluno","17/09/1957",6,4,1,1
+"2244E112B09DC3AE","Veneto","Belluno","18/06/1961",6,4,1,1
+"7CC1F78ABF039507","Veneto","Belluno","20/11/1959",6,4,0,1
+"76728694419B93E0","Veneto","Belluno","21/09/1965",6,4,0,1
+"E8788F7540F1A6B9","Veneto","Belluno","24/01/1964",6,4,0,1
+"EEAD37B00834A890","Veneto","Belluno","24/04/1960",6,4,1,1
+"E8EB6E95083B4AD8","Veneto","Belluno","25/08/1961",6,4,1,1
+"A4DD1C38B8E98F05","Veneto","Belluno","27/09/1963",6,4,0,1
+"8001A9474C83CE0B","Veneto","Belluno","28/03/1960",6,4,1,1
+"6DC1D95876597383","Veneto","Belluno","28/11/1953",6,4,1,1
+"AB5357C55FAEA335","Friuli-Venezia Giulia","Pordenone","29/09/1966",6,4,1,1
+"6CAF669830E6E71C","Veneto","Belluno","29/11/1970",6,4,1,1
+"E494D7CF03AC6D07","Emilia-Romagna","Modena","01/07/1943",7,4,1,1
+"283B4C140EECAF39","Veneto","Belluno","03/02/1949",7,4,0,1
+"0E77F8D6B8AB55E8","Veneto","Belluno","04/08/1944",7,4,0,1
+"55C4EB476BDEFBF7","Veneto","Belluno","08/08/1948",7,4,0,1
+"2C0D65D4C1FEA426","Lombardia","Milano","09/02/1945",7,4,0,1
+"903E9FDE26FE7BBE","Veneto","Belluno","09/05/1947",7,4,1,1
+"A1C720612E2F016A","Lombardia","Varese","10/03/1953",7,4,1,1
+"B7740732EB450902","Campania","Salerno","10/08/1953",7,4,0,1
+"63BF17BCF4212DA6","Provincia di Trento","Trento","17/08/1944",7,4,0,1
+"A5661621FF7D5336","Provincia di Trento","Trento","23/03/1950",7,4,0,1
+"235883856B434B96","Veneto","Belluno","25/04/1946",7,4,1,1
+"E494D7CF03AC6D07","Emilia-Romagna","Modena","01/07/1943",8,4,1,1
+"AFD1469A2A96BA22","Veneto","Belluno","03/07/1939",8,4,0,1
+"CF0127B3DC4D0016","Veneto","Belluno","03/12/1941",8,4,0,1
+"5C9A96672A4875F6","Emilia-Romagna","Forli-Cesena","07/04/1941",8,4,1,1
+"9FDD1F65E33470BD","Provincia di Trento","Trento","07/06/1938",8,4,1,1
+"E8D86C7DB47078A6","Provincia di Trento","Trento","18/12/1940",8,4,1,1
+"B441B953C80C551E","Estero","Estero","20/01/1939",8,4,0,1
+"DE2A5B6C5D3A288F","Lombardia","Lodi","22/06/1940",8,4,1,1
+"ECAF8FC6AEBFA068","Veneto","Belluno","23/06/1940",8,4,0,1
+"8B634E01DB14CA81","Liguria","Genova","23/11/1938",8,4,1,1
+"070FAC056F42434A","Veneto","Belluno","24/01/1939",8,4,1,1
+"726F8FB5B8D6FBA6","Lombardia","Milano","25/11/1929",9,4,1,1
+"1035A3171AA32B5A","Veneto","Belluno","11/12/2018",1,5,1,1
+"CFF7A7E47B4667F2","Provincia di Trento","Trento","04/10/1983",5,5,1,1
+"9F9AF8FEC6123366","Provincia di Trento","Trento","11/01/1986",5,5,1,1
+"F99ED0A01EB9E471","Veneto","Belluno","12/09/1990",5,5,1,1
+"B502E1C29F8C4A08","Veneto","Belluno","05/12/1963",6,5,0,1
+"EAEA79F86281BDCD","Veneto","Belluno","09/05/1965",6,5,1,1
+"9309424BFE198981","Veneto","Belluno","13/10/1963",6,5,1,1
+"8EB1F6091EEE8F7B","Sicilia","Catania","16/03/1969",6,5,1,1
+"3D856FB8CD0E5184","Veneto","Belluno","16/10/1953",6,5,0,1
+"61ED89857C643BEC","Provincia di Trento","Trento","23/08/1969",6,5,0,1
+"268A412BC044C3F4","Provincia di Trento","Trento","26/02/1966",6,5,0,1
+"6037B141972209EC","Veneto","Belluno","26/10/1961",6,5,0,1
+"6296BA8C4896C0DA","Veneto","Belluno","28/04/1969",6,5,0,1
+"D14A090042FFD581","Veneto","Belluno","29/12/1964",6,5,1,1
+"DED0ED784EBD5719","Emilia-Romagna","Ferrara","01/05/1948",7,5,0,1
+"B927AEE3447E807A","Veneto","Belluno","10/03/1953",7,5,1,1
+"8F3C4103675D164F","Veneto","Belluno","11/04/1947",7,5,1,1
+"D00B632EAAB4117B","Veneto","Belluno","12/04/1951",7,5,0,1
+"3D856FB8CD0E5184","Veneto","Belluno","16/10/1953",7,5,0,1
+"720E77D4948954D0","Veneto","Belluno","17/04/1951",7,5,1,1
+"772571EE8FEE1350","Veneto","Belluno","24/11/1939",8,5,0,1
+"30D5F6DBC6F29911","Veneto","Belluno","29/12/1942",8,5,0,1
+"C319F066CC53956A","Veneto","Belluno","30/05/1941",8,5,0,1
+"1F39D3B9BF7BDE69","Provincia di Trento","Trento","13/06/1931",9,5,0,1
+"DF5855533B964AEB","Provincia di Trento","Trento","07/06/1970",6,6,0,1
+"8EB1F6091EEE8F7B","Sicilia","Catania","16/03/1969",6,6,1,1
+"A886B4F092DCE2B4","Veneto","Belluno","20/03/1956",6,6,0,1
+"BEBA4154AAF896C8","Veneto","Belluno","16/09/1943",7,6,1,1
+"8099400C6C24877F","Veneto","Belluno","17/12/1950",7,6,0,1
+"7A332CA6A215ED23","Provincia di Trento","Trento","26/06/1946",7,6,1,1
+"776BB5BEE664BFC4","Veneto","Belluno","30/06/1946",7,6,0,1
+"9219D0C6D2E6FE08","Veneto","Belluno","06/09/1940",8,6,0,1
+"B560A5FC70BA3E07","Estero","Estero","08/06/1941",8,6,0,1
+"BE12A30F089A8612","Veneto","Belluno","15/06/1942",8,6,0,1
+"BEBA4154AAF896C8","Veneto","Belluno","16/09/1943",8,6,1,1
+"F31F086A43642053","Veneto","Belluno","22/05/1941",8,6,1,1
+"8B753781B97D4EE3","Veneto","Belluno","28/08/1933",8,6,0,1
+"8B753781B97D4EE3","Veneto","Belluno","28/08/1933",9,6,0,1
+"D24856DEE84032B8","Veneto","Belluno","10/04/1989",5,7,1,1
+"AAC2677F8C0F5866","Provincia di Trento","Trento","08/02/1965",6,7,1,1
+"D18C96B0B3C329C3","Veneto","Belluno","23/01/1961",6,7,0,1
+"21C64E9B91C6C0C5","Estero","Estero","04/11/1933",8,7,0,1
+"21C64E9B91C6C0C5","Estero","Estero","04/11/1933",9,7,0,1
+"C84A6E04753E9F1A","Friuli-Venezia Giulia","Pordenone","07/11/1966",6,8,1,1
+"33A7E185DC636205","Puglia","Brindisi","19/08/1944",7,8,1,1
+"D37912C474DC687A","Sicilia","Caltanissetta","17/04/1977",5,9,1,1
+"44F60141F5637392","Friuli-Venezia Giulia","Pordenone","06/08/1993",4,10,0,1
+"44F60141F5637392","Friuli-Venezia Giulia","Pordenone","06/08/1993",5,10,0,1
+"9B2A8D52FE36F119","Provincia di Trento","Trento","11/04/1973",6,10,0,1
+"726A5F5C56609270","Provincia di Trento","Trento","14/02/1944",7,10,1,1
+"C5DF4888BFC75E5D","Friuli-Venezia Giulia","Pordenone","30/12/1981",5,11,0,1
+"F85C3BB1F374E40D","Lombardia","Milano","14/03/1954",6,12,0,1
+"0E35576C7F6141E9","Puglia","Brindisi","07/05/1950",7,13,0,1
+"BDED978B1B820E47","Friuli-Venezia Giulia","Udine","26/08/1962",6,14,1,1
+"B62284A0F640CD32","Provincia di Trento","Trento","26/05/1946",7,15,1,1
+"A2E70E653A1F9815","Lazio","Roma","01/04/1945",7,16,0,1
+"36F6E69353A68736","Friuli-Venezia Giulia","Udine","09/02/1949",7,16,1,1
+"2B82034223AF47C9","Friuli-Venezia Giulia","Udine","06/08/1975",5,17,0,1
+"60A441D012F88CE8","Friuli-Venezia Giulia","Udine","08/10/1989",5,17,0,1
+"70B74938DE19D59D","Piemonte","Asti","04/05/1993",4,20,0,1
+"70B74938DE19D59D","Piemonte","Asti","04/05/1993",5,20,0,1
+"EA54108ACA239D4A","Provincia di Trento","Trento","23/11/1935",8,22,1,1
+"1F28AE39B04262A6","Provincia di Trento","Trento","28/08/1948",7,30,1,1
+"60EBAAE6F4993503","Abruzzo","Chieti","02/04/1945",7,44,1,1
