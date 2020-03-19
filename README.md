@@ -64,3 +64,9 @@ La regressione, invece,  è una tecnica di ML con apprendimento supervisionato, 
 
 
 
+
+######## Link
+
+App deployata su un account free perciò limitata nel tempo e se ancora disponibile può essere raggiunta al seguente link:
+
+                                      https://marcocortese.shinyapps.io/MLinProd/
