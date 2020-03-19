@@ -6,10 +6,11 @@ Questa app, sviluppata in shiny con linguaggio R, è stata creata per un Meetup 
 ![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Locandina.jfif)
 
 È articolata in 4 sezioni:
-•	Home
-•	Esplorazioni dati
-•	Cluster
-•	Regressione
+  Home
+  Esplorazioni dati
+  Cluster
+  Regressione
+
 
 
 # Home
