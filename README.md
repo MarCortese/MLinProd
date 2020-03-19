@@ -12,6 +12,6 @@ Questa app, sviluppata in shiny con linguaggio R, è stata creata per un Meetup 
 •	Regressione
 
 
-#Home
-![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Home.jpg, width="350" )
+# Home
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Home.jpg)
 
