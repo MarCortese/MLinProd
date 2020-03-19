@@ -7,13 +7,35 @@ Questa app, sviluppata in shiny con linguaggio R, è stata creata per un Meetup 
 
 È articolata in 4 sezioni:
 
-  Home
-  Esplorazioni dati
-  Cluster
-  Regressione
-
-
-
+	Home
+	Esplorazione dati
+	Cluster
+	Regressione
+  
 # Home
 ![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Home.jpg)
 
+# Esplorazione dati
+
+Questa tab ha l'obbiettivo di mostrare le prime fasi che bisogna eseguire in una qualsiasi analisi. Tutto parte da un'analisi del fenomeno rappresentato dai dati cercando quindi di capire le variabili presenti nel dataset e la rispettiva distribuzione
+Analisi delle variabili
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Esplora1.jpg)
+
+Alcuni grafici descrittivi delle variabili.
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Esplora2.jpg)
+
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Esplora3.jpg)
+
+
+# Cluster
+
+La cluster è una tecnica di ML con apprendimento non supervisionato. Lo scopo di questa tecnica è quello di andare alla ricerca di gruppi di unità simili tra di loro. Alla base di un algoritmo di cluster gerarchico vi sono alcuni parametri ovvero la scelta della distanza da utilizzare, del legame e del numero di cluster che si vogliono cercare tra i dati. Per la scelta del valore da attribuire a queste variabili, in questa app sono stati scelti 2 radioButtons, che consentono una solo scelta per volta, e di un numeric input.
+
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Cluster1.jpg)
+
+Una volta attribuito un valore è possibile rappresentare l'output grafico, in questo caso un semplice dendogramma
+
+![alt text](https://raw.githubusercontent.com/MarCortese/MLinProd/master/Evento/Screen/Cluster2.jpg)
+
+
+# Regressione
